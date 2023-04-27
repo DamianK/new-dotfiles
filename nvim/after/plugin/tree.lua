@@ -3,7 +3,7 @@ require'nvim-tree'.setup {
     custom = {".git", "node_modules", ".vscode"}
   },
   git = {
-    ignore = true
+    ignore = false
   },
   view = {
     float = {
