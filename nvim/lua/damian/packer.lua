@@ -36,4 +36,9 @@ return require('packer').startup(function()
   use { "zbirenbaum/copilot.lua" }
   use { "mbbill/undotree" }
 
+  use {
+    "jose-elias-alvarez/buftabline.nvim",
+    requires = {"kyazdani42/nvim-web-devicons"}, -- optional!
+    config = function() require("buftabline").setup {} end
+    }
 end)
