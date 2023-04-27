@@ -2,6 +2,7 @@ vim.opt.number = true
 vim.opt.nu = true
 vim.opt.relativenumber = true
 vim.opt.numberwidth = 1
+vim.opt.cursorline = true
 
 vim.opt.tabstop = 4
 vim.opt.shiftwidth = 4
