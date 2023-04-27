@@ -2,6 +2,7 @@
   "coc.preferences.formatOnType": true,
   "codeLens.enable": true,
   "coc.preferences.formatOnSaveFiletypes": [
+    "python",
     "markdown",
     "javascript",
     "javascriptreact",
