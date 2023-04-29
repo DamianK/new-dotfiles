@@ -47,4 +47,5 @@ return require('packer').startup(function()
   }
 
   use {'airblade/vim-gitgutter'}
+  use {'kdheepak/lazygit.nvim'}
 end)
