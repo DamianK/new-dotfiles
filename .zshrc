@@ -21,6 +21,7 @@ export PATH=/home/damian/scripts:$PATH
 alias con="openvpn3 session-start --config /home/damian/Documents/vpn/software_vpn_config.ovpn" 
 alias discon="openvpn3 session-manage --config /home/damian/Documents/vpn/software_vpn_config.ovpn --disconnect"
 alias listss="openvpn3 sessions-list"
+# these next two are for fixing openvpn3 errors (it needs glib 2.74 at the moment)
 alias downglib="sudo downgrade 'glib2=2.74.6'"
 alias upgglib="sudo downgrade 'glib2=2.76.1'"
 
