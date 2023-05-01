@@ -41,11 +41,8 @@ return require('packer').startup(function()
     requires = {"kyazdani42/nvim-web-devicons"}, -- optional!
     config = function() require("buftabline").setup {} end
     }
-  use {
-    'nvim-lualine/lualine.nvim',
-    requires = { 'nvim-tree/nvim-web-devicons', opt = true }
-  }
 
+  use {'nvim-lualine/lualine.nvim', requires = { 'nvim-tree/nvim-web-devicons', opt = true }}
   use {'airblade/vim-gitgutter'}
   use {'kdheepak/lazygit.nvim'}
 end)
