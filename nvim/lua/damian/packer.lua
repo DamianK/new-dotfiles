@@ -1,6 +1,7 @@
 return require('packer').startup(function()
   use { "wbthomason/packer.nvim" }
-  use { "folke/tokyonight.nvim" }
+  -- use { "folke/tokyonight.nvim" }
+  use { "Mofiqul/dracula.nvim" }
   use { "nvim-treesitter/nvim-treesitter", run = ':TSUpdate' }
   use { "nvim-treesitter/playground" }
   use { "tpope/vim-fugitive" }
