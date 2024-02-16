@@ -62,17 +62,3 @@ vim.api.nvim_command("autocmd BufWritePre *.ex,*.go lua vim.lsp.buf.formatting()
 
 require('wlsample.airline')
 
--- vim.g.copilot_no_tab_map = true
--- vim.g.copilot_assume_mapped = true
--- vim.g.copilot_tab_fallback = ""
--- 
--- map('i', '<C-j>', 'copilot#Accept()', { expr = true, silent = true})
-
-
--- vim.g.do_filetype_lua = 1
--- vim.g.did_load_filetypes = 0
-vim.filetype.add({
-  extension = {
-    astro = "astro"
-  }
-})
