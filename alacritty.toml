@@ -52,12 +52,12 @@ live_config_reload = true
 # Example:
 
 # [shell]
-# program = "/bin/zsh"
+# program = "/usr/bin/zsh"
 # args = ["-l"]
 
 [shell]
 program = "ubuntu"
-args = [""]
+#args = ["-l"]
 
 
 # ENV
@@ -195,43 +195,8 @@ multiplier = 3
 
 
 # FONT
-# This section documents the [font] table of the configuration file.
-# normal = { family = "<string>", style = "<string>" }
-
-# Default:
-# Linux/BSD: { family = "monospace", style = "Regular" }
-# Windows: { family = "Consolas", style = "Regular" }
-# macOS: { family = "Menlo", style = "Regular" }
-
-# bold = { family = "<string>", style = "<string>" }
-# If the family is not specified, it will fall back to the value specified for the normal font.
-# Default: { style = "Bold" }
-
-# italic = { family = "<string>", style = "<string>" }
-# If the family is not specified, it will fall back to the value specified for the normal font.
-# Default: { style = "Italic" }
-
-# bold_italic = { family = "<string>", style = "<string>" }
-# If the family is not specified, it will fall back to the value specified for the normal font.
-# Default: { style = "Bold Italic" }
-
-# size = <float>
-# Font size in points.
-# Default: 11.25
-
-# offset = { x = <integer>, y = <integer> }
-# Offset is the extra space around each character. The 'y' can be thought of as modifying the line spacing, and 'x' as modifying the letter spacing.
-# Default: { x = 0, y = 0 }
-
-# glyph_offset = { x = <integer>, y = <integer> }
-# Glyph offset determines the locations of the glyphs within their cells with the default being at the bottom. Increasing x moves the glyph to the right, increasing y moves the glyph upward.
-
-# builtin_box_drawing = true | false
-# When true, Alacritty will use a custom built-in font for box drawing characters (Unicode points U+2500 - U+259F) and powerline symbols (Unicode points U+E0B0 - U+E0B3).
-# Default: true
-
 [font]
-normal = { family = "JetBrainsMono Nerd Font", style = "Italic" }
+normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
 size = 16
 builtin_box_drawing = true 
 
