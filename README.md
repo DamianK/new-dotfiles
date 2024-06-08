@@ -8,7 +8,10 @@ PLEASE NOTE: This is very much a work in progress! I'm upgrading my PC at the mo
 ## About this repository
 Includes configurations for:
 
+- Alacritty
 - NeoVim
+- Python
+- PostgreSQL
 - ZSH
 - Zellij
 
