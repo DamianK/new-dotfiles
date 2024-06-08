@@ -6,5 +6,11 @@ Main development environment includes Alacritty, Zellij and NeoVim.
 PLEASE NOTE: This is very much a work in progress! I'm upgrading my PC at the moment so most things will change!
 
 ## About this repository
-Includes configurations for ZSH, NeoVim, Pycharm and more..
+Includes configurations for:
+
+- NeoVim
+- ZSH
+- Zellij
+
+and more..
 
