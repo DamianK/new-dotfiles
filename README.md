@@ -10,6 +10,7 @@ Includes configurations for:
 
 - Alacritty
 - NeoVim
+- Pycharm
 - Python
 - PostgreSQL
 - ZSH
