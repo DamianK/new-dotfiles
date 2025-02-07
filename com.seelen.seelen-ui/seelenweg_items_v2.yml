@@ -1,0 +1,179 @@
+isReorderDisabled: false
+left:
+- type: StartMenu
+  id: 318c67f3-b00e-4904-8a51-0ba80fad8897
+center:
+- type: Pinned
+  id: 02b261c8-305b-4c8e-86f4-23a031fd6c1d
+  umid: null
+  path: C:\Windows\explorer.exe
+  relaunchCommand: C:\Windows\explorer.exe
+  displayName: Explorer
+  isDir: false
+  windows: []
+  pinDisabled: false
+- type: Pinned
+  id: 33eaaddf-2529-40b1-9dd8-00fd769e2321
+  umid: MSEdge
+  path: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Edge.lnk
+  relaunchCommand: '"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --profile-directory=Default'
+  displayName: Microsoft Edge
+  isDir: false
+  windows: []
+  pinDisabled: false
+- type: Pinned
+  id: ea34881d-c54f-4ad6-8bcf-4e3490cd7795
+  umid: null
+  path: C:\wezterm\wezterm-gui.exe
+  relaunchCommand: C:\wezterm\wezterm-gui.exe
+  displayName: WezTerm - Wez's Terminal Emulator
+  isDir: false
+  windows: []
+  pinDisabled: false
+- type: Pinned
+  id: 34ce013d-573d-4c3b-98d5-f5ba49701ca8
+  umid: null
+  path: C:\Users\fliak\AppData\Local\Programs\Microsoft VS Code\Code.exe
+  relaunchCommand: C:\Users\fliak\AppData\Local\Programs\Microsoft VS Code\Code.exe
+  displayName: Visual Studio Code
+  isDir: false
+  windows: []
+  pinDisabled: false
+- type: Pinned
+  id: 925ce0d3-be21-47ea-95be-0ab8f4ec9187
+  umid: nwjs._nwjs_cmifjmkpnhldmblngbbmojlle
+  path: C:\Users\fliak\AppData\Local\Programs\pgAdmin 4\runtime\pgAdmin4.exe
+  relaunchCommand: '"C:\Users\fliak\AppData\Local\Programs\pgAdmin 4\runtime\pgAdmin4.exe"'
+  displayName: pgadmin4
+  isDir: false
+  windows: []
+  pinDisabled: false
+- type: Pinned
+  id: 91e52bc0-9eb0-49b2-ab5e-04510cf8da01
+  umid: null
+  path: C:\Program Files\UltiMaker Cura 5.7.1\UltiMaker-Cura.exe
+  relaunchCommand: C:\Program Files\UltiMaker Cura 5.7.1\UltiMaker-Cura.exe
+  displayName: UltiMaker-Cura
+  isDir: false
+  windows: []
+  pinDisabled: false
+- type: Pinned
+  id: 039584eb-1d83-449b-9a13-093c5b02162c
+  umid: null
+  path: C:\Users\fliak\AppData\Local\Autodesk\webdeploy\production\c4a5520f9bb0f0174c02662af8bd1ab67cee6298\Fusion360.exe
+  relaunchCommand: C:\Users\fliak\AppData\Local\Autodesk\webdeploy\production\c4a5520f9bb0f0174c02662af8bd1ab67cee6298\Fusion360.exe
+  displayName: Autodesk Fusion 360
+  isDir: false
+  windows: []
+  pinDisabled: false
+- type: Pinned
+  id: 454f801f-ca04-411e-9e1b-f2317257a2f1
+  umid: null
+  path: C:\Program Files\Adobe\Adobe Photoshop 2025\Photoshop.exe
+  relaunchCommand: C:\Program Files\Adobe\Adobe Photoshop 2025\Photoshop.exe
+  displayName: Adobe Photoshop 2025
+  isDir: false
+  windows: []
+  pinDisabled: false
+- type: Pinned
+  id: 74f6fbce-3c90-4a25-ac0f-752e842a486c
+  umid: null
+  path: C:\Program Files\Adobe\Adobe Illustrator 2025\Support Files\Contents\Windows\Illustrator.exe
+  relaunchCommand: C:\Program Files\Adobe\Adobe Illustrator 2025\Support Files\Contents\Windows\Illustrator.exe
+  displayName: Adobe Illustrator 2025
+  isDir: false
+  windows: []
+  pinDisabled: false
+- type: Pinned
+  id: abcab324-5767-41b5-893a-d4b07633e36e
+  umid: null
+  path: C:\Program Files\Maxon Cinema 4D 2023\Cinema 4D.exe
+  relaunchCommand: C:\Program Files\Maxon Cinema 4D 2023\Cinema 4D.exe
+  displayName: Cinema 4D
+  isDir: false
+  windows: []
+  pinDisabled: false
+- type: Pinned
+  id: e80125f8-bf5c-4ad4-a5fd-9a21092fb45c
+  umid: null
+  path: C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE
+  relaunchCommand: C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE
+  displayName: Microsoft Excel
+  isDir: false
+  windows: []
+  pinDisabled: false
+- type: Pinned
+  id: 63c03253-1262-4046-b75f-a593ac5e1e71
+  umid: null
+  path: C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE
+  relaunchCommand: C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE
+  displayName: Microsoft Word
+  isDir: false
+  windows: []
+  pinDisabled: false
+- type: Pinned
+  id: 38adf7ec-4c67-446e-8347-4cc8236aab4b
+  umid: null
+  path: C:\ProgramData\Ableton\Live 11 Suite\Program\Ableton Live 11 Suite.exe
+  relaunchCommand: C:\ProgramData\Ableton\Live 11 Suite\Program\Ableton Live 11 Suite.exe
+  displayName: Ableton Live 11 Suite
+  isDir: false
+  windows: []
+  pinDisabled: false
+- type: Pinned
+  id: 74cd7043-ce3b-4e9c-bf71-7849c29f9eb7
+  umid: null
+  path: C:\Program Files\Bitwig Studio\Bitwig Studio.exe
+  relaunchCommand: C:\Program Files\Bitwig Studio\Bitwig Studio.exe
+  displayName: Bitwig Studio
+  isDir: false
+  windows: []
+  pinDisabled: false
+- type: Pinned
+  id: 4ab37618-6d97-43ac-abd6-cf6b38acfbc1
+  umid: null
+  path: C:\Users\fliak\AppData\Local\Discord\app-1.0.9181\Discord.exe
+  relaunchCommand: C:\Users\fliak\AppData\Local\Discord\app-1.0.9181\Discord.exe
+  displayName: Discord
+  isDir: false
+  windows: []
+  pinDisabled: false
+- type: Pinned
+  id: 22f98fa1-12c8-4441-bfdf-6c5f70f1671b
+  umid: 5319275A.WhatsAppDesktop_cv1g1gvanyjgm!App
+  path: C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2504.2.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+  relaunchCommand: '"explorer.exe" shell:AppsFolder\5319275A.WhatsAppDesktop_cv1g1gvanyjgm!App'
+  displayName: WhatsApp
+  isDir: false
+  windows: []
+  pinDisabled: false
+- type: Pinned
+  id: 4c8b1cef-2621-4fda-9216-d953a1603c53
+  umid: MSTeams_8wekyb3d8bbwe!MSTeams
+  path: C:\Program Files\WindowsApps\MSTeams_25017.203.3370.1174_x64__8wekyb3d8bbwe\ms-teams.exe
+  relaunchCommand: '"explorer.exe" shell:AppsFolder\MSTeams_8wekyb3d8bbwe!MSTeams'
+  displayName: Microsoft Teams
+  isDir: false
+  windows: []
+  pinDisabled: false
+- type: Pinned
+  id: d3bde4d7-1809-4de8-a487-5c24d9447254
+  umid: SpotifyAB.SpotifyMusic_zpdnekdrzrea0!Spotify
+  path: C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.256.502.0_x64__zpdnekdrzrea0\Spotify.exe
+  relaunchCommand: '"explorer.exe" shell:AppsFolder\SpotifyAB.SpotifyMusic_zpdnekdrzrea0!Spotify'
+  displayName: Spotify
+  isDir: false
+  windows: []
+  pinDisabled: false
+- type: Pinned
+  id: 062ef5c7-6507-40b2-ac72-880ef6db5f9a
+  umid: 14184MeetmeXMTechnologyCo.ClockWidgets-AnyTimeZone_8712n5bmjvf8t!ClockWidgetsAnyTimeZoneSupport
+  path: C:\Program Files\WindowsApps\14184MeetmeXMTechnologyCo.ClockWidgets-AnyTimeZone_2.1.0.0_x64__8712n5bmjvf8t\VFS\ProgramFilesX86\MeetmeXM Technology Co., Ltd\Clock Widgets - Any TimeZone Support\ClockWidgets.exe
+  relaunchCommand: '"explorer.exe" shell:AppsFolder\14184MeetmeXMTechnologyCo.ClockWidgets-AnyTimeZone_8712n5bmjvf8t!ClockWidgetsAnyTimeZoneSupport'
+  displayName: Clock Widgets - Any TimeZone Support
+  isDir: false
+  windows: []
+  pinDisabled: false
+right:
+- type: Media
+  id: e4408713-ede6-4b79-bdb3-6f07d1be0ce5

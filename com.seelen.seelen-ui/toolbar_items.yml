@@ -1,0 +1,31 @@
+isReorderDisabled: false
+left:
+- '@default/user-folder'
+- type: text
+  id: d5aae894-c75f-417d-af73-b614684a726f
+  template: '"|"'
+  tooltip: null
+  badge: null
+  onClick: null
+  onClickV2: null
+  style: {}
+- '@default/focused-app'
+- type: generic
+  id: 30590f2c-fbdb-4ee2-9614-b962576bc4cd
+  template: 'window.title ? "-" : ""'
+  tooltip: null
+  badge: null
+  onClick: null
+  onClickV2: null
+  style: {}
+- '@default/focused-app-title'
+center:
+- '@default/date'
+right:
+- '@default/system-tray'
+- '@default/bluetooth'
+- '@default/network'
+- '@default/media'
+- '@default/power'
+- '@default/notifications'
+- '@default/quick-settings'
