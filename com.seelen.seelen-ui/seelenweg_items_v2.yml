@@ -130,6 +130,24 @@ center:
   windows: []
   pinDisabled: false
 - type: Pinned
+  id: e89cdbcb-8ba0-42ac-b719-35c1e9771b6d
+  umid: null
+  path: C:\Program Files\Acoustica Mixcraft 9\mixcraft9.exe
+  relaunchCommand: C:\Program Files\Acoustica Mixcraft 9\mixcraft9.exe
+  displayName: Mixcraft 9
+  isDir: false
+  windows: []
+  pinDisabled: false
+- type: Pinned
+  id: 789ef13d-5d63-4f7d-b046-831f76f45982
+  umid: null
+  path: C:\Program Files\MakeMusic\Finale\27\Finale.exe
+  relaunchCommand: C:\Program Files\MakeMusic\Finale\27\Finale.exe
+  displayName: Finale for Windows
+  isDir: false
+  windows: []
+  pinDisabled: false
+- type: Pinned
   id: 4ab37618-6d97-43ac-abd6-cf6b38acfbc1
   umid: null
   path: C:\Users\fliak\AppData\Local\Discord\app-1.0.9181\Discord.exe
@@ -171,6 +189,15 @@ center:
   path: C:\Program Files\WindowsApps\14184MeetmeXMTechnologyCo.ClockWidgets-AnyTimeZone_2.1.0.0_x64__8712n5bmjvf8t\VFS\ProgramFilesX86\MeetmeXM Technology Co., Ltd\Clock Widgets - Any TimeZone Support\ClockWidgets.exe
   relaunchCommand: '"explorer.exe" shell:AppsFolder\14184MeetmeXMTechnologyCo.ClockWidgets-AnyTimeZone_8712n5bmjvf8t!ClockWidgetsAnyTimeZoneSupport'
   displayName: Clock Widgets - Any TimeZone Support
+  isDir: false
+  windows: []
+  pinDisabled: false
+- type: Pinned
+  id: 54ebc05c-4fa5-4b8a-bfb4-a022d0b649c5
+  umid: null
+  path: C:\Windows\System32\Taskmgr.exe
+  relaunchCommand: C:\Windows\System32\Taskmgr.exe
+  displayName: Administrador de tareas
   isDir: false
   windows: []
   pinDisabled: false

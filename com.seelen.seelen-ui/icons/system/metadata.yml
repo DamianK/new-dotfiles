@@ -9,69 +9,88 @@ metadata:
   filename: system
   bundled: false
 apps:
-  D:\OneDrive\Imágenes\5d17f8b3-4284-4520-b250-aa37bc077dc3.jpg: 19288873-5f4f-462e-9019-3925b6c2e14f.png
-  C:\Windows\System32\Taskmgr.exe: 338c3a78-dba6-44eb-8c1d-00e307f6ad29.png
-  D:\OneDrive\Documentos\808 Tom Hi 1.flac: 346e57ea-253f-46b1-a695-356e9cb6dd55.png
-  C:\Program Files\Intel\Intel Arc Control\ArcControl.exe: 7a625eb6-8fac-4713-84ed-736bb0e89ccb.png
-  C:\Program Files\WindowsApps\MSTeams_25017.203.3370.1174_x64__8wekyb3d8bbwe\ms-teams.exe: 0017e8cd-f477-46a2-ba94-e32319a32661.png
-  D:\OneDrive\Imágenes\BB1msBaF.img: 8fab47b9-c796-4730-ba1b-b43fa9736b86.png
-  C:\Windows\explorer.exe: e92c0a95-c885-457d-8806-ba09c227a426.png
-  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\OneDrive.lnk: f4a24c38-f2f9-452c-bd4c-a2f848cc1bd7.png
-  MSEdge: d854bcd0-ce16-4f37-88f5-a1a2e134ef91.png
-  C:\Users\fliak\Downloads\ableton_live_7_manual_en.pdf: 395b146c-a5ae-4b9a-b72c-828a38911436.png
-  C:\Program Files\PowerToys\PowerToys.FancyZones.exe: c09ffa34-1a46-4a6a-bcab-d575161e261f.png
-  C:\Program Files\Microsoft OneDrive\OneDrive.exe: a08be61d-e093-4d15-9d15-bb3445207e41.png
+  C:\Program Files\Adobe\Adobe Photoshop 2025\Photoshop.exe: f06df099-aede-48bd-8d21-d35db9c96da1.png
+  C:\Program Files\WinRAR\WinRAR.exe: 62caa7ee-6cf0-4d52-8be8-f03c76c8a3ec.png
   C:\Program Files\Maxon Cinema 4D 2023\Cinema 4D.exe: ae5cf6ce-e466-4e7d-aede-7fe230d2b40c.png
-  D:\OneDrive\Escritorio\fisica emma.txt: 91314a67-9f63-4a43-98ae-fc4422f97432.png
-  C:\Users\fliak\Downloads\Ableton-Shortcuts-PDF.pdf: 7b2188b4-7852-4b2a-8f4c-e1e2d8b551d0.png
+  Microsoft.MicrosoftPCManager_8wekyb3d8bbwe!App: 0fcae4c7-603c-4353-929c-5e8fd043253a.png
+  C:\Program Files\WindowsApps\MSTeams_25017.203.3370.1174_x64__8wekyb3d8bbwe\ms-teams.exe: 0017e8cd-f477-46a2-ba94-e32319a32661.png
   C:\Users\fliak\Downloads\111224_150933.pdf: bbaa9525-9b94-4428-9ae8-2d42af0a9e34.png
-  D:\OneDrive\Documentos\808 Maracas 13.flac: b31bc4a6-a79c-424d-8ba0-4b1eb27279c5.png
-  D:\OneDrive\Escritorio\NEGOCIO.xlsx: 42858e4b-d015-49ad-9126-c290f6d1d37b.png
-  C:\Users\fliak\AppData\Local\Programs\Microsoft VS Code\Code.exe: fb93824e-1f4f-4814-ab19-64f73926a25a.png
-  C:\Program Files (x86)\Arturia\Arturia Software Center\Arturia Software Center.exe: 39f59059-6b86-4454-b350-50d019e05ebb.png
+  D:\OneDrive\Documentos\808 Tom Hi 1.flac: 346e57ea-253f-46b1-a695-356e9cb6dd55.png
+  C:\Users\fliak\Downloads\111224_151220.pdf: f699dfdc-dc20-4a01-ac7b-7bb705626660.png
+  C:\Program Files\Bitwig Studio\Bitwig Studio.exe: 73cdc0a5-086c-4066-bf36-d431fc47ca89.png
+  C:\Windows\System32\cmd.exe: 3dff707e-866c-4258-af45-bb3fb91ae913.png
+  MSTeams_8wekyb3d8bbwe!MSTeams: e8d9744e-7074-4457-8b2d-8151d8594248.png
+  D:\OneDrive\Documentos\808 Snare Drum 253.flac: 9fe63836-d117-4e69-8f75-e0b9865e6990.png
+  C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE: 44f6f68f-e7cb-42af-bf08-f795e751a3fe.png
+  D:\OneDrive\Escritorio\OSDE.pdf: 49a8853c-3f06-4862-876f-6a5adcacf471.png
+  C:\ProgramData\Battle.net\Agent\Blizzard Uninstaller.exe: 1f4afa16-5ab7-44d8-8b42-3b0df79de075.png
+  C:\Users\fliak\AppData\Local\Autodesk\webdeploy\production\c4a5520f9bb0f0174c02662af8bd1ab67cee6298\Fusion360.exe: 873e64cb-84b0-4df8-a2a6-a90bf19978b2.png
+  Microsoft.SkyDrive.Desktop: f4a24c38-f2f9-452c-bd4c-a2f848cc1bd7.png
+  C:\Program Files\Acoustica Mixcraft 9\uninstall.exe: fc36aaac-ff49-4509-b2f0-ce225731b369.png
+  D:\OneDrive\Imágenes\BB1msBaF.img: 8fab47b9-c796-4730-ba1b-b43fa9736b86.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\OneDrive.lnk: f4a24c38-f2f9-452c-bd4c-a2f848cc1bd7.png
   D:\OneDrive\Documentos\808 Tom Low 44.flac: e70b52fa-98a1-4ab3-8123-3e05b2ccd117.png
   C:\Users\fliak\Downloads\469968589_1018225530331665_8556589822799551962_n.jpg: 4e2751c6-0806-4c31-8c7d-2d7405f1aacf.png
-  C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE: 55b9ea81-1d1d-4c39-b29e-07733db2a173.png
+  C:\Program Files\Seelen\Seelen UI\uninstall.exe: 9682c57a-9693-47d9-8da4-b7bcbeb1d86d.png
+  C:\Program Files\RustDesk\rustdesk.exe: 61ea4311-db7d-4946-a775-23fc1c2fb9ad.png
+  D:\OneDrive\Escritorio\NEGOCIO.xlsx: 42858e4b-d015-49ad-9126-c290f6d1d37b.png
+  D:\OneDrive\Imágenes\cb34deea-f680-4a08-ba54-d76d60049637.jpg: ee531b02-c172-4284-9604-4a6c3076551a.png
+  Microsoft.ZuneMusic_8wekyb3d8bbwe!Microsoft.ZuneMusic: 60828c0e-843d-4638-8544-c388adafaafc.png
+  MSEdge: d854bcd0-ce16-4f37-88f5-a1a2e134ef91.png
   D:\OneDrive\Escritorio\pagos-local.xlsx: 67af5a3d-1f11-43be-b68e-be57fdac66d4.png
-  C:\Program Files\UltiMaker Cura 5.7.1\UltiMaker-Cura.exe: cf82bcaf-f142-4a6e-b817-575221f9d883.png
-  ? C:\Program Files\WindowsApps\Microsoft.6365217CE6EB4_102.2412.12002.0_x64__8wekyb3d8bbwe\MicrosoftSecurityApp\MicrosoftSecurityApp.exe
-  : 1ab74c5e-8f8c-4b7d-981a-5aea93460a9d.png
-  D:\OneDrive\Documentos\808 Snare Drum 253.flac: 9fe63836-d117-4e69-8f75-e0b9865e6990.png
-  D:\OneDrive\Imágenes\12036986_1064074106939221_1431817304991695364_n.jpg: aecf3516-3590-4816-aa2a-cb3d73815226.png
-  C:\Users\fliak\AppData\Local\Programs\pgAdmin 4\runtime\pgAdmin4.exe: 4b4f3e5e-ca06-4062-b1d8-fa3806d4ac96.png
-  C:\Users\fliak\AppData\Local\Autodesk\webdeploy\production\c4a5520f9bb0f0174c02662af8bd1ab67cee6298\Fusion360.exe: 873e64cb-84b0-4df8-a2a6-a90bf19978b2.png
-  C:\Program Files (x86)\Browny02\Brother\BrStMonW.exe: e2b43b5b-3642-4ead-bab9-b3ed0e8c4664.png
-  C:\Program Files\Adobe\Adobe Illustrator 2025\Support Files\Contents\Windows\Illustrator.exe: 7621347b-d063-4398-b5b3-cd32407e9b6e.png
-  windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel: d7afa4d3-5bda-4112-8e61-fdbb99b48d12.png
-  C:\ProgramData\Ableton\Live 11 Suite\Program\Ableton Live 11 Suite.exe: c312e7de-c412-45c1-8464-b94e1aa7405d.png
-  D:\OneDrive\Documentos\808 Tom Mid 44.flac: b77410d3-29ef-453b-b37e-14ebc1d1a734.png
-  C:\ProgramData\Battle.net\Agent\Blizzard Uninstaller.exe: 1f4afa16-5ab7-44d8-8b42-3b0df79de075.png
-  C:\ProgramData\{66727803-D023-456D-A52C-2E7D96E410F3}\Controller Editor Setup PC.exe: ea17d255-9a4f-432d-8c0e-1791ce97a7b5.png
-  C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE: 44f6f68f-e7cb-42af-bf08-f795e751a3fe.png
-  Microsoft.StorePurchaseApp_8wekyb3d8bbwe!App: 986bfdc3-4e2a-4a84-b18b-cf4f75ac92d9.png
-  C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.256.502.0_x64__zpdnekdrzrea0\Spotify.exe: 534d16ca-a74f-44a7-ba4f-e10109528f41.png
-  C:\Program Files\Seelen\Seelen UI\seelen-ui.exe: a5bb60ca-e123-44bd-a6ea-12a7fce28fe7.png
-  D:\OneDrive\Escritorio\OSDE.pdf: 49a8853c-3f06-4862-876f-6a5adcacf471.png
-  C:\Program Files\XnViewMP\xnviewmp.exe: 4b9e0c75-19ed-498c-a1a1-28b47f795106.png
-  SpotifyAB.SpotifyMusic_zpdnekdrzrea0!Spotify: cea326f1-b0a1-4dd9-93af-451fd51c3cac.png
-  MSTeams_8wekyb3d8bbwe!MSTeams: e8d9744e-7074-4457-8b2d-8151d8594248.png
-  Microsoft.SkyDrive.Desktop: f4a24c38-f2f9-452c-bd4c-a2f848cc1bd7.png
+  C:\Users\fliak\Downloads\Ableton-Shortcuts-PDF.pdf: 7b2188b4-7852-4b2a-8f4c-e1e2d8b551d0.png
   14184MeetmeXMTechnologyCo.ClockWidgets-AnyTimeZone_8712n5bmjvf8t!ClockWidgetsAnyTimeZoneSupport: 62fdbfe3-7a1d-41e4-8c9e-85603daae7f5.png
+  D:\OneDrive\Documentos\808 Tom Mid 44.flac: b77410d3-29ef-453b-b37e-14ebc1d1a734.png
+  Microsoft.StorePurchaseApp_8wekyb3d8bbwe!App: 986bfdc3-4e2a-4a84-b18b-cf4f75ac92d9.png
+  C:\Program Files\Intel\Intel Arc Control\ArcControl.exe: 7a625eb6-8fac-4713-84ed-736bb0e89ccb.png
+  C:\Program Files (x86)\Arturia\Arturia Software Center\Arturia Software Center.exe: 39f59059-6b86-4454-b350-50d019e05ebb.png
+  C:\Users\fliak\Downloads\ableton_live_7_manual_en.pdf: 395b146c-a5ae-4b9a-b72c-828a38911436.png
+  C:\wezterm\wezterm-gui.exe: 37e4dd3d-7860-4c04-87b6-8e7e90a23a78.png
+  5319275A.WhatsAppDesktop_cv1g1gvanyjgm!App: 60b24a80-1c29-46e0-be83-5975d9abbb2f.png
+  C:\Program Files\Seelen\Seelen UI\seelen-ui.exe: a5bb60ca-e123-44bd-a6ea-12a7fce28fe7.png
+  C:\Program Files\Acoustica Mixcraft 9\mixcraft9.exe: 63329724-dd9b-4bde-976b-e62f94798912.png
+  C:\Program Files\PowerToys\PowerToys.exe: 3dff9adb-b10e-4880-8f00-0bd70f51c061.png
+  C:\Program Files\VideoLAN\VLC\vlc.exe: f0c183e7-3207-42e5-8390-0f0bba940360.png
+  C:\Program Files\WindowsApps\Microsoft.MicrosoftPCManager_3.15.5.0_x64__8wekyb3d8bbwe\PCManager\MSPCManager.exe: 1ce4e91e-e3e1-4a63-a5bb-801c870c0b16.png
+  C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE: 55b9ea81-1d1d-4c39-b29e-07733db2a173.png
+  C:\Program Files\UltiMaker Cura 5.7.1\UltiMaker-Cura.exe: cf82bcaf-f142-4a6e-b817-575221f9d883.png
+  C:\Windows\SysWOW64\taskkill.exe: 1056a9d3-164b-46cb-a7e2-224e1b3b1381.png
+  C:\ProgramData\Ableton\Live 11 Suite\Program\Ableton Live 11 Suite.exe: c312e7de-c412-45c1-8464-b94e1aa7405d.png
+  C:\Program Files\MakeMusic\Finale\27\Finale.exe: 0b3400dc-59f0-406d-91d6-58222d05a1a7.png
+  C:\Users\fliak\AppData\Local\Programs\Microsoft VS Code\Code.exe: fb93824e-1f4f-4814-ab19-64f73926a25a.png
+  C:\Program Files\XnViewMP\xnviewmp.exe: 4b9e0c75-19ed-498c-a1a1-28b47f795106.png
+  C:\Users\fliak\AppData\Local\Temp\_ir_sf_temp_0\irsetup.exe: f166e273-0d28-4160-bbb8-d0cd5cd9c6cc.png
+  D:\OneDrive\Imágenes\draculatheme.jpg: 161ae0b8-b6c0-4e65-9e9e-63720f6a953f.png
+  C:\fab\Fab_x64.exe: 95739b1f-894a-4a9e-9453-d86924c722cd.png
+  D:\OneDrive\Imágenes\5d17f8b3-4284-4520-b250-aa37bc077dc3.jpg: 19288873-5f4f-462e-9019-3925b6c2e14f.png
+  Microsoft.Windows.Photos_8wekyb3d8bbwe!App: 139179c0-0e04-4e94-ae0d-9fc224262611.png
+  C:\Users\fliak\AppData\Local\Temp\~nsuA.tmp\Un_A.exe: 9be895d1-1398-4c7e-94c2-0ec8744451ff.png
+  C:\ProgramData\ArturiaSC\Arturia Software Center\temp\updater.exe: 91e10433-c609-4875-8a42-d9b6801b4511.png
   ? C:\Program Files\WindowsApps\14184MeetmeXMTechnologyCo.ClockWidgets-AnyTimeZone_2.1.0.0_x64__8712n5bmjvf8t\VFS\ProgramFilesX86\MeetmeXM Technology Co., Ltd\Clock Widgets - Any TimeZone Support\ClockWidgets.exe
   : e5951b0e-7000-4f5e-bcb9-a3ade26f3d20.png
-  D:\OneDrive\Imágenes\draculatheme.jpg: 161ae0b8-b6c0-4e65-9e9e-63720f6a953f.png
-  C:\Users\fliak\Downloads\111224_151220.pdf: f699dfdc-dc20-4a01-ac7b-7bb705626660.png
-  C:\Program Files\WindowsApps\Microsoft.MicrosoftPCManager_3.15.5.0_x64__8wekyb3d8bbwe\PCManager\MSPCManager.exe: 1ce4e91e-e3e1-4a63-a5bb-801c870c0b16.png
-  C:\Program Files\Acoustica Mixcraft 9\mixcraft9.exe: 63329724-dd9b-4bde-976b-e62f94798912.png
-  D:\OneDrive\Imágenes\cb34deea-f680-4a08-ba54-d76d60049637.jpg: ee531b02-c172-4284-9604-4a6c3076551a.png
-  C:\Program Files\Adobe\Adobe Photoshop 2025\Photoshop.exe: f06df099-aede-48bd-8d21-d35db9c96da1.png
-  C:\wezterm\wezterm-gui.exe: 37e4dd3d-7860-4c04-87b6-8e7e90a23a78.png
-  C:\Program Files\Bitwig Studio\Bitwig Studio.exe: 73cdc0a5-086c-4066-bf36-d431fc47ca89.png
-  Microsoft.MicrosoftPCManager_8wekyb3d8bbwe!App: 0fcae4c7-603c-4353-929c-5e8fd043253a.png
+  ? C:\Program Files\WindowsApps\Microsoft.6365217CE6EB4_102.2412.12002.0_x64__8wekyb3d8bbwe\MicrosoftSecurityApp\MicrosoftSecurityApp.exe
+  : 1ab74c5e-8f8c-4b7d-981a-5aea93460a9d.png
+  C:\ProgramData\{66727803-D023-456D-A52C-2E7D96E410F3}\Controller Editor Setup PC.exe: ea17d255-9a4f-432d-8c0e-1791ce97a7b5.png
+  C:\Users\fliak\Downloads\Seelen.UI_2.1.5_x64-setup.exe: bd46cba0-c433-4180-b0ed-fea122ae1faa.png
+  D:\Instaladores\PRESONUS STUDIO ONE 6.5\WIN_PSO_V6.5.2_AP_ZNT\WIN_PSO_V6.5.2_AP_ZNT\1.INSTALAR\Setup.exe: d71208a0-c661-4c66-9cd8-1f6652ac62b8.png
+  C:\Program Files\PowerToys\PowerToys.FancyZones.exe: c09ffa34-1a46-4a6a-bcab-d575161e261f.png
+  D:\OneDrive\Documentos\808 Maracas 13.flac: b31bc4a6-a79c-424d-8ba0-4b1eb27279c5.png
+  D:\OneDrive\Imágenes\12036986_1064074106939221_1431817304991695364_n.jpg: aecf3516-3590-4816-aa2a-cb3d73815226.png
   C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Edge.lnk: d854bcd0-ce16-4f37-88f5-a1a2e134ef91.png
-  5319275A.WhatsAppDesktop_cv1g1gvanyjgm!App: 60b24a80-1c29-46e0-be83-5975d9abbb2f.png
+  SpotifyAB.SpotifyMusic_zpdnekdrzrea0!Spotify: cea326f1-b0a1-4dd9-93af-451fd51c3cac.png
   C:\Windows\System32\msiexec.exe: 0df37bf2-e265-426e-9a1d-b95645a8de54.png
+  C:\Users\Public\Desktop\Kontakt 7.lnk: eae9d0d2-e9cd-47d7-b4ee-4bf58c4e539a.png
+  C:\Windows\System32\Taskmgr.exe: 338c3a78-dba6-44eb-8c1d-00e307f6ad29.png
+  windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel: d7afa4d3-5bda-4112-8e61-fdbb99b48d12.png
+  C:\Program Files\Microsoft OneDrive\OneDrive.exe: a08be61d-e093-4d15-9d15-bb3445207e41.png
+  D:\OneDrive\Escritorio\fisica emma.txt: 91314a67-9f63-4a43-98ae-fc4422f97432.png
+  C:\Program Files (x86)\Browny02\Brother\BrStMonW.exe: e2b43b5b-3642-4ead-bab9-b3ed0e8c4664.png
+  C:\Users\fliak\AppData\Local\Programs\pgAdmin 4\runtime\pgAdmin4.exe: 4b4f3e5e-ca06-4062-b1d8-fa3806d4ac96.png
+  C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.256.502.0_x64__zpdnekdrzrea0\Spotify.exe: 534d16ca-a74f-44a7-ba4f-e10109528f41.png
+  C:\Windows\explorer.exe: e92c0a95-c885-457d-8806-ba09c227a426.png
   C:\Users\fliak\AppData\Local\Discord\app-1.0.9181\Discord.exe: 7aabf1e4-dca6-443e-b30e-a16d4a22cb09.png
-  C:\Program Files\RustDesk\rustdesk.exe: 61ea4311-db7d-4946-a775-23fc1c2fb9ad.png
-  C:\Windows\System32\cmd.exe: 3dff707e-866c-4258-af45-bb3fb91ae913.png
+  Microsoft.ScreenSketch_8wekyb3d8bbwe!App: da039f82-c3f5-4df4-aa3a-77abdf98c43a.png
+  C:\Program Files\Adobe\Adobe Illustrator 2025\Support Files\Contents\Windows\Illustrator.exe: 7621347b-d063-4398-b5b3-cd32407e9b6e.png
+  D:\Native Instruments\Kontakt 7\Kontakt 7.exe: f54e4ac6-efef-4f6a-a925-0a0c857882df.png
+  Microsoft.WindowsNotepad_8wekyb3d8bbwe!App: d2ad5b7a-063a-4f89-842b-718688a5d557.png
 files: {}
