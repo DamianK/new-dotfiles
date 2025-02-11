@@ -121,15 +121,6 @@ center:
   windows: []
   pinDisabled: false
 - type: Pinned
-  id: 74cd7043-ce3b-4e9c-bf71-7849c29f9eb7
-  umid: null
-  path: C:\Program Files\Bitwig Studio\Bitwig Studio.exe
-  relaunchCommand: C:\Program Files\Bitwig Studio\Bitwig Studio.exe
-  displayName: Bitwig Studio
-  isDir: false
-  windows: []
-  pinDisabled: false
-- type: Pinned
   id: e89cdbcb-8ba0-42ac-b719-35c1e9771b6d
   umid: null
   path: C:\Program Files\Acoustica Mixcraft 9\mixcraft9.exe
@@ -153,15 +144,6 @@ center:
   path: C:\Users\fliak\AppData\Local\Discord\app-1.0.9181\Discord.exe
   relaunchCommand: C:\Users\fliak\AppData\Local\Discord\app-1.0.9181\Discord.exe
   displayName: Discord
-  isDir: false
-  windows: []
-  pinDisabled: false
-- type: Pinned
-  id: 22f98fa1-12c8-4441-bfdf-6c5f70f1671b
-  umid: 5319275A.WhatsAppDesktop_cv1g1gvanyjgm!App
-  path: C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2504.2.0_x64__cv1g1gvanyjgm\WhatsApp.exe
-  relaunchCommand: '"explorer.exe" shell:AppsFolder\5319275A.WhatsAppDesktop_cv1g1gvanyjgm!App'
-  displayName: WhatsApp
   isDir: false
   windows: []
   pinDisabled: false
