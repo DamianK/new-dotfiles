@@ -9,90 +9,444 @@ metadata:
   filename: system
   bundled: false
 apps:
-  C:\Program Files\Adobe\Adobe Photoshop 2025\Photoshop.exe: f06df099-aede-48bd-8d21-d35db9c96da1.png
-  C:\Program Files\WinRAR\WinRAR.exe: 62caa7ee-6cf0-4d52-8be8-f03c76c8a3ec.png
-  C:\Program Files\Maxon Cinema 4D 2023\Cinema 4D.exe: ae5cf6ce-e466-4e7d-aede-7fe230d2b40c.png
-  Microsoft.MicrosoftPCManager_8wekyb3d8bbwe!App: 0fcae4c7-603c-4353-929c-5e8fd043253a.png
-  C:\Program Files\WindowsApps\MSTeams_25017.203.3370.1174_x64__8wekyb3d8bbwe\ms-teams.exe: 0017e8cd-f477-46a2-ba94-e32319a32661.png
-  C:\Users\fliak\Downloads\111224_150933.pdf: bbaa9525-9b94-4428-9ae8-2d42af0a9e34.png
-  D:\OneDrive\Documentos\808 Tom Hi 1.flac: 346e57ea-253f-46b1-a695-356e9cb6dd55.png
-  C:\Users\fliak\Downloads\111224_151220.pdf: f699dfdc-dc20-4a01-ac7b-7bb705626660.png
-  C:\Program Files\Bitwig Studio\Bitwig Studio.exe: 73cdc0a5-086c-4066-bf36-d431fc47ca89.png
-  C:\Windows\System32\cmd.exe: 3dff707e-866c-4258-af45-bb3fb91ae913.png
-  MSTeams_8wekyb3d8bbwe!MSTeams: e8d9744e-7074-4457-8b2d-8151d8594248.png
-  D:\OneDrive\Documentos\808 Snare Drum 253.flac: 9fe63836-d117-4e69-8f75-e0b9865e6990.png
-  C:\Program Files (x86)\vanBasco's Karaoke Player\vmidi.exe: 9cc64097-37f3-4a4c-a35d-56141011b6bd.png
-  C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE: 44f6f68f-e7cb-42af-bf08-f795e751a3fe.png
-  D:\OneDrive\Escritorio\OSDE.pdf: 49a8853c-3f06-4862-876f-6a5adcacf471.png
-  C:\ProgramData\Battle.net\Agent\Blizzard Uninstaller.exe: 1f4afa16-5ab7-44d8-8b42-3b0df79de075.png
-  C:\Users\fliak\AppData\Local\Autodesk\webdeploy\production\c4a5520f9bb0f0174c02662af8bd1ab67cee6298\Fusion360.exe: 873e64cb-84b0-4df8-a2a6-a90bf19978b2.png
-  Microsoft.SkyDrive.Desktop: f4a24c38-f2f9-452c-bd4c-a2f848cc1bd7.png
-  C:\Program Files\Acoustica Mixcraft 9\uninstall.exe: fc36aaac-ff49-4509-b2f0-ce225731b369.png
-  D:\OneDrive\Imágenes\BB1msBaF.img: 8fab47b9-c796-4730-ba1b-b43fa9736b86.png
-  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\OneDrive.lnk: f4a24c38-f2f9-452c-bd4c-a2f848cc1bd7.png
-  D:\OneDrive\Documentos\808 Tom Low 44.flac: e70b52fa-98a1-4ab3-8123-3e05b2ccd117.png
-  C:\Users\fliak\Downloads\469968589_1018225530331665_8556589822799551962_n.jpg: 4e2751c6-0806-4c31-8c7d-2d7405f1aacf.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools.lnk: f0757962-d4ab-4588-97a5-07553e57d49f.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Command Prompt.lnk: 8e32fb3c-d62a-4914-8eda-9fcd23b347b6.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++\Text Editor.lnk: 2e6e07ff-28ce-4734-b01d-3f5276b69707.png
+  Wacom.UpdateUtility: 89ed5898-7718-4591-85c4-0a4456607592.png
+  Microsoft.Windows.MediaPlayer32: 332a5fc2-3a67-408a-bba1-9d0d57df4ca9.png
+  D:\OneDrive\Escritorio\entradas.xlsx: c6fa20b9-c806-47fe-a7c2-c1b7f6620aa5.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Disk Cleanup.lnk: cc623fed-970c-4617-9d80-8bb85955fc00.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++\Resource Editor.lnk: b93505e9-39ca-49d9-b6d3-aa2d265c843c.png
   C:\Program Files\Seelen\Seelen UI\uninstall.exe: 9682c57a-9693-47d9-8da4-b7bcbeb1d86d.png
-  C:\Program Files\RustDesk\rustdesk.exe: 61ea4311-db7d-4946-a775-23fc1c2fb9ad.png
-  D:\OneDrive\Escritorio\NEGOCIO.xlsx: 42858e4b-d015-49ad-9126-c290f6d1d37b.png
-  D:\OneDrive\Imágenes\cb34deea-f680-4a08-ba54-d76d60049637.jpg: ee531b02-c172-4284-9604-4a6c3076551a.png
-  Microsoft.ZuneMusic_8wekyb3d8bbwe!Microsoft.ZuneMusic: 60828c0e-843d-4638-8544-c388adafaafc.png
-  MSEdge: d854bcd0-ce16-4f37-88f5-a1a2e134ef91.png
+  C:\Program Files (x86)\Aural Probe\Aural Probe.exe: 08c44e6f-e593-485c-a5af-731bf9e207ff.png
+  Microsoft.6365217CE6EB4_8wekyb3d8bbwe!App: cd404e2c-0f22-4a61-a08f-58ce29ae19e0.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\Dialog Editor Help.lnk: 20c5c509-64d6-43e4-991c-647de294de93.png
+  Microsoft.ScreenSketch_8wekyb3d8bbwe!App: da039f82-c3f5-4df4-aa3a-77abdf98c43a.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\KeePassXC\KeePassXC - Getting Started.lnk: ee5b9521-2476-487d-ba19-b18d53c09545.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\WinRAR\What is new in the latest version.lnk: 3f45b9f1-ab35-46bf-b3bd-2a46965c1257.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++\Image Editor.lnk: 81c1074a-7717-46d8-ba34-d02be5c56745.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Photoshop 2025.lnk: 0700ae59-48c0-44af-9d95-a028c41c8bf5.png
+  Microsoft.PowerToysWin32: a1c77a7a-7a3d-4060-87d0-6fdd37af3b03.png
   D:\OneDrive\Escritorio\pagos-local.xlsx: 67af5a3d-1f11-43be-b68e-be57fdac66d4.png
-  C:\Users\fliak\Downloads\Ableton-Shortcuts-PDF.pdf: 7b2188b4-7852-4b2a-8f4c-e1e2d8b551d0.png
-  14184MeetmeXMTechnologyCo.ClockWidgets-AnyTimeZone_8712n5bmjvf8t!ClockWidgetsAnyTimeZoneSupport: 62fdbfe3-7a1d-41e4-8c9e-85603daae7f5.png
-  D:\OneDrive\Documentos\808 Tom Mid 44.flac: b77410d3-29ef-453b-b37e-14ebc1d1a734.png
-  Microsoft.StorePurchaseApp_8wekyb3d8bbwe!App: 986bfdc3-4e2a-4a84-b18b-cf4f75ac92d9.png
-  C:\Program Files\Intel\Intel Arc Control\ArcControl.exe: 7a625eb6-8fac-4713-84ed-736bb0e89ccb.png
-  C:\Program Files (x86)\Arturia\Arturia Software Center\Arturia Software Center.exe: 39f59059-6b86-4454-b350-50d019e05ebb.png
-  C:\Users\fliak\Downloads\ableton_live_7_manual_en.pdf: 395b146c-a5ae-4b9a-b72c-828a38911436.png
-  C:\wezterm\wezterm-gui.exe: 37e4dd3d-7860-4c04-87b6-8e7e90a23a78.png
-  5319275A.WhatsAppDesktop_cv1g1gvanyjgm!App: 60b24a80-1c29-46e0-be83-5975d9abbb2f.png
-  C:\Program Files\Seelen\Seelen UI\seelen-ui.exe: a5bb60ca-e123-44bd-a6ea-12a7fce28fe7.png
-  C:\Program Files\Acoustica Mixcraft 9\mixcraft9.exe: 63329724-dd9b-4bde-976b-e62f94798912.png
-  C:\Program Files\PowerToys\PowerToys.exe: 3dff9adb-b10e-4880-8f00-0bd70f51c061.png
-  C:\Program Files\VideoLAN\VLC\vlc.exe: f0c183e7-3207-42e5-8390-0f0bba940360.png
+  C:\Windows\system32\Taskmgr.exe: d0fac06b-e23f-416c-bde0-902c54f010ad.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VMPC2000XL\VMPC2000XL.lnk: 2fc27205-524d-4310-8418-c30915bec8d0.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Revo Uninstaller\Revo Uninstaller Help.lnk: fac1a8b1-f1f1-4ac4-8099-4b0906e3d83c.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\desktop.ini: 93144299-630a-4858-8a5f-893987cfd23f.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\iSCSI Initiator.lnk: 0a5666c7-7f20-45ae-87c1-9b381afd0c38.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\desktop.ini: e73acee2-6c4e-428a-ae77-b3ca7a8dfc31.png
+  windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel: d7afa4d3-5bda-4112-8e61-fdbb99b48d12.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 2.7\Uninstall Python.lnk: be0ae897-01f0-4c53-b29d-e77b0df4bf38.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\GSP\Fallout\Fallout.lnk: 96e7056a-091b-45c3-bfbb-72807023dd27.png
   C:\Program Files\WindowsApps\Microsoft.MicrosoftPCManager_3.15.5.0_x64__8wekyb3d8bbwe\PCManager\MSPCManager.exe: 1ce4e91e-e3e1-4a63-a5bb-801c870c0b16.png
-  C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE: 55b9ea81-1d1d-4c39-b29e-07733db2a173.png
-  C:\Program Files\UltiMaker Cura 5.7.1\UltiMaker-Cura.exe: cf82bcaf-f142-4a6e-b817-575221f9d883.png
-  C:\Windows\SysWOW64\taskkill.exe: 1056a9d3-164b-46cb-a7e2-224e1b3b1381.png
-  C:\ProgramData\Ableton\Live 11 Suite\Program\Ableton Live 11 Suite.exe: c312e7de-c412-45c1-8464-b94e1aa7405d.png
-  C:\Program Files\MakeMusic\Finale\27\Finale.exe: 0b3400dc-59f0-406d-91d6-58222d05a1a7.png
-  C:\Program Files\Bitwig Studio\bin\BitwigAudioEngine-X64-AVX2.exe: 5ad13e53-0080-46f8-8361-fa9f302a1a18.png
-  C:\Users\fliak\AppData\Local\Programs\Microsoft VS Code\Code.exe: fb93824e-1f4f-4814-ab19-64f73926a25a.png
-  C:\Program Files\XnViewMP\xnviewmp.exe: 4b9e0c75-19ed-498c-a1a1-28b47f795106.png
-  C:\Users\fliak\AppData\Local\Temp\_ir_sf_temp_0\irsetup.exe: f166e273-0d28-4160-bbb8-d0cd5cd9c6cc.png
-  D:\OneDrive\Imágenes\draculatheme.jpg: 161ae0b8-b6c0-4e65-9e9e-63720f6a953f.png
-  C:\fab\Fab_x64.exe: 95739b1f-894a-4a9e-9453-d86924c722cd.png
-  D:\OneDrive\Imágenes\5d17f8b3-4284-4520-b250-aa37bc077dc3.jpg: 19288873-5f4f-462e-9019-3925b6c2e14f.png
-  Microsoft.Windows.Photos_8wekyb3d8bbwe!App: 139179c0-0e04-4e94-ae0d-9fc224262611.png
-  C:\Users\fliak\AppData\Local\Temp\~nsuA.tmp\Un_A.exe: 9be895d1-1398-4c7e-94c2-0ec8744451ff.png
+  C:\Users\fliak\AppData\Local\Temp\~nsu.tmp\Un_A.exe: 8d81e21b-9b7e-464f-a513-89fb48e8fc56.png
+  Microsoft.Office.OneNote.MemoryPreview: 712c96b8-c14f-4054-b3e2-168580686055.png
+  SpotifyAB.SpotifyMusic_zpdnekdrzrea0!Widget: 4f75002e-c949-4b7a-be40-5095ea37f6b1.png
+  C:\Program Files (x86)\Project64 1.6\Project64.exe: 78c222fa-5d36-4737-b191-b05c0d87fb72.png
+  D:\OneDrive\Imágenes\12036986_1064074106939221_1431817304991695364_n.jpg: aecf3516-3590-4816-aa2a-cb3d73815226.png
+  C:\ProgramData\Package Cache\{ef6b00ec-13e1-4c25-9064-b2f383cb8412}\vcredist_x64.exe: d7537016-7103-4ead-9e5b-b3b108c91f7f.png
+  C:\Program Files\PowerShell\7\pwsh.exe: c9cf4be8-6d2b-4916-adcc-06b888d92707.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Desktop.ini: 8e12bd1c-3ac5-4590-b821-b65855d81e49.png
+  C:\Program Files\RustDesk\rustdesk.exe: 61ea4311-db7d-4946-a775-23fc1c2fb9ad.png
+  D:\Native Instruments\Kontakt 7\Kontakt 7.exe: f54e4ac6-efef-4f6a-a925-0a0c857882df.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\UltiMaker Cura\UltiMaker Cura 5.7.1.lnk: cc5ed48d-3a61-42fd-b1d4-4c510aebce8b.png
+  Microsoft.WSL: 27e05e81-b4c5-4eeb-8b28-a3cb800e61eb.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Maxon\Maxon Cinema 4D\Team Render Client 2023.lnk: 2bc24cff-85a4-4ef7-8d20-20d0b083169b.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Revo Uninstaller\Desinstalar Revo Uninstaller.lnk: af429b0f-e4f7-426d-ae07-a659257e8c4b.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Character Map.lnk: 84a87bda-0ce4-4e32-b9d4-26457ec1a5ca.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\project64 1.6\Project64 1.6.lnk: e757ec2a-9965-499e-8cc2-c1e166984cbf.png
+  C:\Program Files\LUNA\LUNA.exe: 17b104c2-838d-48e1-89e6-74666a708d40.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\VMCreate.lnk: c6788ba0-2e47-47d1-9a47-264b999887a1.png
+  Microsoft.WindowsAlarms_8wekyb3d8bbwe!App: 6834dc9c-3d07-405e-b876-0a8b5148a6e4.png
+  C:\Users\fliak\Downloads\Ableton-Shortcuts-PDF.pdf: 7b2188b4-7852-4b2a-8f4c-e1e2d8b551d0.png
+  C:\Program Files\Adobe\Adobe Illustrator 2025\Support Files\Contents\Windows\Illustrator.exe: 7621347b-d063-4398-b5b3-cd32407e9b6e.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Tableta Wacom\Wacom Center.lnk: 5d53f248-eb1b-4bfd-9025-cdfd0c3c956a.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\UVI Portal\Uninstall  UVI Portal.lnk: 446c499a-cc49-4da2-8ef8-1c3a86b49d66.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Ubuntu\tracktion-download-manager (Ubuntu).lnk: 0b9ab6b1-f51f-4631-a363-dd9e17f8bc8d.png
+  C:\Users\fliak\Downloads\111224_150933.pdf: bbaa9525-9b94-4428-9ae8-2d42af0a9e34.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\OrcaSlicer\OrcaSlicer.lnk: f993ae06-e0bc-44f0-9d25-c25e67ff4c2c.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\pgAdmin 4\pgAdmin 4 v8.lnk: 2da4a7b3-6a7d-4a61-a1a3-ec3d3297fd40.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.11\Python 3.11 Manuals (64-bit).lnk: 5269912e-a695-4429-b6ff-945ccbeacd33.png
+  C:\Program Files\WinRAR\WinRAR.exe: 62caa7ee-6cf0-4d52-8be8-f03c76c8a3ec.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\XnView MP\XnView MP.lnk: 28ac7f7c-9237-4392-bf47-df16062eee43.png
+  C:\Program Files\WSL\wslg.exe: 2e63152a-70eb-4a97-8e87-eaad2d4e9a73.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Tableta Wacom\Propiedades de la tableta Wacom.lnk: 05d11771-831a-44a5-9fd8-03288b9166da.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 2.7\Module Docs.lnk: 1a550864-2d78-4d8d-b831-fc5e6162e313.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Synchronet BBS Software\Synchronet Control Panel.lnk: 2868dde6-4726-4929-811d-a94efaa3cfd0.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Illustrator 2025.lnk: b2946f22-333e-4ff4-b7e2-6b5b3e4b9e0d.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Steam\Steam.lnk: 01964b85-6155-47d6-867c-5275f9361ab1.png
+  14184MeetmeXMTechnologyCo.ClockWidgets-AnyTimeZone_8712n5bmjvf8t!ClockWidgetsAnyTimeZoneSupport: 62fdbfe3-7a1d-41e4-8c9e-85603daae7f5.png
+  C:\Windows\System32\PickerHost.exe: 7830e7b2-4319-4644-8c20-44907192b54f.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Print Management.lnk: 80552311-7552-4858-918b-7384aa566cd6.png
   C:\ProgramData\ArturiaSC\Arturia Software Center\temp\updater.exe: 91e10433-c609-4875-8a42-d9b6801b4511.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.11\Python 3.11 Module Docs (64-bit).lnk: eba3721b-bbdd-40b6-8185-8dc31dda8a37.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Wordpad.lnk: 3ba609db-d231-4a20-bc14-8dc93b84469f.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\CyberGhost 8\CyberGhost 8.lnk: acbdc3f2-ab48-4f9b-a12d-361439a00462.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Event Viewer.lnk: 8e2454ff-b5cf-49ad-b054-9facd8b460bb.png
+  C:\mixijo\Mixijo.exe: d0104490-2b5b-4b8a-90ec-1dc34aeb43de.png
+  C:\Program Files\UA Connect\resources\native\windows\x64\uahelperservice.exe: be19c5e4-0add-4b58-bc31-52903a1716aa.png
+  D:\OneDrive\Escritorio\OSDE.pdf: 49a8853c-3f06-4862-876f-6a5adcacf471.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Visual Studio Code\Visual Studio Code.lnk: 26612ae0-3350-49b7-9312-20c3d557155a.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\WinRAR\Console RAR manual.lnk: cf8d8677-c78d-4229-a65c-61f1411cd2ea.png
+  5319275A.WhatsAppDesktop_cv1g1gvanyjgm!App: 60b24a80-1c29-46e0-be83-5975d9abbb2f.png
+  C:\Windows\System32\cmd.exe: 3dff707e-866c-4258-af45-bb3fb91ae913.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Maxon\Maxon Cinema 4D\Team Render Server 2023.lnk: cacf3389-3ead-4fb9-aba5-19c58f3d1d58.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Task Scheduler.lnk: c03654a4-1c59-44d7-b8be-2c99740c530b.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Desktop.ini: 08324ef7-774b-447f-bfef-520494ce994c.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git\Git Bash.lnk: 3f4f731c-9dfb-4fd3-aeac-79f0ccfe9501.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Synchronet BBS Software\Synchronet Configuration.lnk: e2e9904b-e807-4417-9418-18adf1170e33.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Maintenance\Desktop.ini: 885ba188-132f-4531-88ab-b897bbbad529.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\WinRAR\WinRAR.lnk: e47d293e-7f44-4b35-9f8e-9665a5468133.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows PowerShell\Windows PowerShell ISE.lnk: 0bd7e8fc-c43b-4412-ba5c-1513b330dddc.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\GSP\Fallout\Manual.lnk: 5f8cbf8a-cabf-4e80-8206-06aa80fc8972.png
+  com.squirrel.Discord.Discord: 6f88ff04-947e-4118-b3bd-446631f9a68c.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Arturia\Analog Lab V\Uninstall Analog Lab V.lnk: 4b82858c-924e-42d7-b842-0a350f30ca40.png
+  ? C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\vanBasco's Karaoke Player\Desinstalar el vanBasco's Karaoke Player.lnk
+  : cdea3558-16c7-4426-9488-195b6c784cbf.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.9\Python 3.9 Module Docs (64-bit).lnk: 376079a8-5587-4335-aaee-ea65cc89c45b.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\On-Screen Keyboard.lnk: 17a749f4-279d-45ac-91ce-0f49eea1a70c.png
+  Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy!App: 85a4c0f1-41f7-4b1f-b044-0feba3b5d255.png
+  C:\Program Files\PowerToys\PowerToys.exe: 3dff9adb-b10e-4880-8f00-0bd70f51c061.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\Programmer's Guide.lnk: 3bacad32-d4fc-4147-930d-2cab04cee4f1.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\Image Editor Help.lnk: e75bee51-f591-485d-97c6-a5a91ec8acde.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\LiveCaptions.lnk: 66d044be-2299-4d2b-b440-e7ced8e0a9c0.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Ubuntu\Tilix (Ubuntu).lnk: f5490faf-1917-466b-9916-9edb771ee09b.png
+  ? C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Acoustica Mixcraft 9 (64 bits)\Melodyne Installer For Mixcraft.lnk
+  : a06c1d47-1a83-45cd-8ec4-f145e111f3d6.png
+  D:\Instaladores\PRESONUS STUDIO ONE 6.5\WIN_PSO_V6.5.2_AP_ZNT\WIN_PSO_V6.5.2_AP_ZNT\1.INSTALAR\Setup.exe: d71208a0-c661-4c66-9cd8-1f6652ac62b8.png
+  ? C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\Resource Compiler Help.lnk
+  : 92cc9544-a4c9-4bdb-bec8-746c41f9bf8b.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\WinRAR\What is new in the latest version.lnk: 47352f1e-4d6d-495d-af4e-9615fc7a6717.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Sticky Notes (new).lnk: 712c96b8-c14f-4054-b3e2-168580686055.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Brother\Brother Utilities.lnk: 358b7464-cf6e-4e55-af4f-66e25ea39f0b.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\KeePassXC\KeePassXC.lnk: 36485b34-637c-4912-a460-40a029ee13ef.png
+  Microsoft.Windows.RemoteDesktop: 41649630-31e5-4467-b0ba-b101fc6a4186.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Tableta Wacom\desktop.ini: de10f058-c0d1-4526-8ddb-a0f2a7e846dd.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\vanBasco's Karaoke Player\vanBasco's Karaoke Player.lnk: c13d41f3-e1ec-4433-a258-404221c8b6ff.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Herramientas de Microsoft Office\Preferencias de idioma de Office.lnk: cfa8d9b7-39c7-4afe-b70c-42b2a65f09b2.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Component Services.lnk: a009881c-a806-46d1-867a-ce325a9c3c37.png
+  C:\Program Files\Adobe\Adobe Photoshop 2025\Photoshop.exe: f06df099-aede-48bd-8d21-d35db9c96da1.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\Profiler Help.lnk: de85d1f6-7539-41e1-88e8-12189e636e69.png
+  C:\Windows\System32\mmc.exe: 3b29d62d-d0a4-4fa1-9e78-69aac6c758fc.png
+  D:\OneDrive\Imágenes\BB1msBaF.img: 8fab47b9-c796-4730-ba1b-b43fa9736b86.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\RetroArch\RetroArch.lnk: 2f217406-4bd3-4fa2-9420-c4bc9dd99a0a.png
+  D:\OneDrive\Documentos\808 Tom Low 44.flac: e70b52fa-98a1-4ab3-8123-3e05b2ccd117.png
+  Microsoft.VisualStudioCode: 26612ae0-3350-49b7-9312-20c3d557155a.png
+  C:\Users\fliak\AppData\Local\Temp\~nsu.tmp\Au_.exe: 9b43fd85-31e9-40b2-9fb3-8ad25ebacfc9.png
+  Microsoft.SkyDrive.Desktop: f4a24c38-f2f9-452c-bd4c-a2f848cc1bd7.png
+  C:\Program Files\Bitwig Studio\Bitwig Studio.exe: 73cdc0a5-086c-4066-bf36-d431fc47ca89.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Windows PowerShell\Windows PowerShell.lnk: 0b09e719-0b6e-47a3-86d7-408da2ff48c3.png
+  C:\Users\fliak\Downloads\Seelen.UI_2.1.8_x64-setup.exe: 835ce037-e2cc-4934-8faf-492c8f1ef460.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Ableton Live 11 Suite.lnk: 59d8614c-156d-4199-a0ed-5eb366d5303d.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.9\IDLE (Python 3.9 64-bit).lnk: 52571975-d975-48f1-8103-b7c611a56db2.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\desktop.ini: aeb593b6-ee47-424e-84bb-3a695fcdf105.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Native Instruments\Kontakt 7\Kontakt 7.lnk: ce75da03-d299-4eb4-80b0-f7c668406087.png
+  C:\Users\fliak\Downloads\ableton_live_7_manual_en.pdf: 395b146c-a5ae-4b9a-b72c-828a38911436.png
+  Microsoft.Office.MSACCESS.EXE.15: 1ee92156-0358-4cb9-8759-ae6220c5a221.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VideoLAN\VLC media player skinned.lnk: cba1fd7f-3b4c-4335-b3e2-0ce28884d2a6.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Computer Management.lnk: d5804450-2697-47a3-a5fa-277cc3850319.png
+  C:\Users\fliak\Downloads\111224_151220.pdf: f699dfdc-dc20-4a01-ac7b-7bb705626660.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\PowerToys (Preview)\PowerToys (Preview).lnk: a1c77a7a-7a3d-4060-87d0-6fdd37af3b03.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Total Commander\Total Commander Help.lnk: b6e30e3f-9140-480c-abd1-df0302bf51a8.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Windows PowerShell\Windows PowerShell (x86).lnk: ad3dbeb1-c2ee-4d93-a1a4-2224ed51bb46.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Arturia\Analog Lab V\Analog Lab V.lnk: 1555c053-5e19-4da6-a43c-f806fb0b11a3.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Finale\Finale.lnk: e887d2e4-3ddc-4766-8814-c84212fb1e61.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Synchronet BBS Software\Synchronet Initialization File.lnk: eee154b4-b3f9-4de9-8d31-727d675c33c4.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\RetroArch\Uninstall RetroArch.lnk: 7f740db0-369a-425b-ba09-4799621495e4.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini: 8c7700dd-eb79-4550-b602-7377e03da209.png
+  Microsoft.Office.ONENOTE.EXE.15: 6dd8c35e-fadb-4e32-b157-05136ddea715.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git\Git CMD.lnk: 50fece65-0218-4819-ac6d-db607c606149.png
+  Clipchamp.Clipchamp_yxz26nhyzhsrt!App: ddf4a473-9275-438e-8727-5deea8a5ecf9.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\OneNote.lnk: 6dd8c35e-fadb-4e32-b157-05136ddea715.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 2.7\IDLE (Python GUI).lnk: 482cf7b1-cdea-453c-ab9e-a7a78713b69e.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\WSL Settings.lnk: 505d73f4-ac2c-430a-a8ff-68b27bbd076b.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Creative Cloud.lnk: 93952b91-d7f7-4702-92ee-2d9c4a0a0a74.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\Resource Editor Help.lnk: 75e13d44-7215-4459-ac50-a5c3d6162b76.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Total Commander\Uninstall or Repair Total Commander.lnk: fbe53ef7-0a4c-4bb0-bfe2-ff3fa46bb0e1.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\System Configuration.lnk: 5069faee-a162-4d67-8f4b-585aba24fefe.png
+  C:\Users\fliak\AppData\Local\Autodesk\webdeploy\production\c4a5520f9bb0f0174c02662af8bd1ab67cee6298\Fusion360.exe: 873e64cb-84b0-4df8-a2a6-a90bf19978b2.png
+  C:\Users\fliak\AppData\Local\Programs\Microsoft VS Code\Code.exe: fb93824e-1f4f-4814-ab19-64f73926a25a.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 2.7\Python (command line).lnk: d6d2b767-3053-4579-bacb-6f5e8daeda8b.png
+  C:\Windows\System32\dllhost.exe: 0f414e09-deba-4a4a-8bfa-2bca93964bde.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\C Library Reference.lnk: aa616c83-9658-4bbd-9571-a56acafad49a.png
   ? C:\Program Files\WindowsApps\14184MeetmeXMTechnologyCo.ClockWidgets-AnyTimeZone_2.1.0.0_x64__8712n5bmjvf8t\VFS\ProgramFilesX86\MeetmeXM Technology Co., Ltd\Clock Widgets - Any TimeZone Support\ClockWidgets.exe
   : e5951b0e-7000-4f5e-bcb9-a3ade26f3d20.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\Menu Editor Help.lnk: 9f12c386-0a1c-4b35-9ffe-947bdf3c7a84.png
+  C:\Users\fliak\Downloads\AuralProbeSetup_151.exe: f4ecd61a-028f-4e6d-8cfb-d8ee7a241efb.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (64-bit).lnk: 19680d52-8676-4916-8360-ee2ddcf8f5f2.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Seelen\Seelen UI.lnk: 1a6632d5-d330-4b67-a155-0e93fc9cf8cf.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Project64 2.3\Uninstall Project64 2.3.lnk: 6de5e955-2368-49fd-a0ba-e64607421da2.png
+  com.seelen.seelen-ui: 1a6632d5-d330-4b67-a155-0e93fc9cf8cf.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Registry Editor.lnk: 4ebf4818-3ad2-415c-b4f9-cb38e85a77f3.png
+  C:\Users\fliak\AppData\Local\Temp\{0ABF6289-949B-4AC8-AD23-F50A83ED44DE}\Set-up.exe: c3bda6a7-c18e-4d4d-9308-e9ccccf30e33.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\C Error Messages.lnk: bb021d75-5f2f-49c6-bc82-218364b1ab49.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Revo Uninstaller\Revo Uninstaller.lnk: b6cdd0be-1195-447b-b442-b10d6ba36a8d.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Tableta Wacom\Herramienta de actualización de Wacom.lnk: 89ed5898-7718-4591-85c4-0a4456607592.png
+  MicrosoftWindows.Client.CBS_cw5n1h2txyewy!CortanaUI: 8558447c-3d9f-49a2-9c21-fe846f64b0a1.png
+  AutodeskInc.Fusion360: 7ec20b02-0f2b-4470-8d50-7ed8456de2b5.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Visual Studio Installer.lnk: 2d7be30f-73d0-4062-b8f6-c92c77d991ba.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\String Editor Help.lnk: 03d9258f-c5b3-4d9c-9515-294a5906d24e.png
+  Microsoft.Windows.ControlPanel: 02500cdb-b004-486d-b0c6-c0c77dd5efa4.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\PowerPoint.lnk: 92990c80-ee84-4397-86bc-b104c4d59676.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\DOSBox-0.65\DOSBox.lnk: feef0a25-90ce-41bc-845a-f487dd596e3d.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Access.lnk: 1ee92156-0358-4cb9-8759-ae6220c5a221.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\Source Browser Help.lnk: bf78c596-d99b-457a-8774-fbe4f94356ff.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player Legacy.lnk: 332a5fc2-3a67-408a-bba1-9d0d57df4ca9.png
+  C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE: 55b9ea81-1d1d-4c39-b29e-07733db2a173.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\OrcaSlicer\Uninstall.lnk: 1729d0be-e9e8-4c16-ab9f-84d82486425b.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VideoLAN\VLC media player.lnk: 19dff2a1-9c00-4f4f-9feb-0a8577f7eaff.png
+  C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe: e4d82429-9cc3-4f9b-9c69-860bd92db73c.png
+  ? C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Acoustica Mixcraft 9 (64 bits)\Mixcraft 9 Pro Studio (64 bits).lnk
+  : a0bde99f-3507-4eca-8804-4ac0a1d11ae1.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\RustDesk\RustDesk.lnk: 348e30fb-02b3-481e-84ec-bcd776373f02.png
+  C:\Program Files (x86)\iLok License Manager\iLok License Manager.exe: 3e426b85-9f1c-4e86-971b-329c2608092f.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Ubuntu\kitty (Ubuntu).lnk: c819e114-f4a7-4577-a5ed-b5706c6eabf8.png
+  Microsoft.Office.OUTLOOK.EXE.15: f0636a45-e66d-4b4e-a961-5ed6c4761f92.png
+  Microsoft.StorePurchaseApp_8wekyb3d8bbwe!App: 986bfdc3-4e2a-4a84-b18b-cf4f75ac92d9.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Android Studio\Android Studio.lnk: ccd12df1-0bdb-48f7-bd54-c21588566970.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Outlook (classic).lnk: f0636a45-e66d-4b4e-a961-5ed6c4761f92.png
+  Microsoft.Office.SETLANG.EXE.15: cfa8d9b7-39c7-4afe-b70c-42b2a65f09b2.png
+  Microsoft.WindowsNotepad_8wekyb3d8bbwe!App: d2ad5b7a-063a-4f89-842b-718688a5d557.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.11\IDLE (Python 3.11 64-bit).lnk: 503d3d1a-2311-477b-b822-c5304eecba52.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows PowerShell\Windows PowerShell ISE (x86).lnk: 91f4bc78-6fd1-447e-8671-cd6cb19da1d6.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Dexed\Un-install Dexed.lnk: 708704bc-f620-4eff-bb1c-8d7f08531d0d.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Maintenance\Desktop.ini: 0cd34030-8c49-427b-8996-ca0cb0795184.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\System Information.lnk: 6f8ef62e-75b7-43d0-a836-c02f041e1ee4.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\WinRAR\WinRAR help.lnk: 61e2ab11-0833-4e58-a669-35c16b5117c7.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\WinRAR\Console RAR manual.lnk: b9057812-6875-4fdb-b48d-889b4df5e06e.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\WSL.lnk: 27e05e81-b4c5-4eeb-8b28-a3cb800e61eb.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++\Doctor Watcom.lnk: 844fa17e-bb88-4bc1-ac42-b156bddb8cd7.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\komorebi.lnk: 491e406a-485a-49d3-82e0-5088b46641ba.png
+  ? C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\vanBasco's Karaoke Player\Ayuda del vanBasco's Karaoke Player.lnk
+  : 84a63ac1-7b9f-4513-a958-edc4ed49f2c6.png
+  C:\Program Files (x86)\BrownyInd\Brother\TroubleShooting.exe: 95dd8678-8838-40f4-922c-ab0f038cad31.png
+  C:\Program Files\MeldaProduction\vcredist_x64.exe: 0e777884-4e5c-4f5d-b3ec-d387ca44fc3e.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Resource Monitor.lnk: 7b609c1f-9fbc-46f7-bbfd-79f1ef6af0da.png
+  C:\Users\fliak\AppData\Roaming\RetroArch\retroarch.exe: 6ecee650-5a01-4ad7-8448-2dc3f2c95f23.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\DOSBox-0.65\README.lnk: 13753ae7-abbb-437e-8ad6-cedfa51550dc.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Windows Defender Firewall with Advanced Security.lnk: d459a246-8c03-4802-9503-3f192d0bc8be.png
+  SpotifyAB.SpotifyMusic_zpdnekdrzrea0!Spotify: cea326f1-b0a1-4dd9-93af-451fd51c3cac.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\Synchronet Control Panel.lnk: 63a6a7af-6ade-49c4-83b4-1c713d9fbce3.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Control Panel.lnk: 02500cdb-b004-486d-b0c6-c0c77dd5efa4.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\Editor Help.lnk: f5df0e16-1b71-4ff1-9083-ae3b89ecedf3.png
+  Microsoft.Office.POWERPNT.EXE.15: 92990c80-ee84-4397-86bc-b104c4d59676.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Oracle VM VirtualBox\Oracle VM VirtualBox.lnk: ac7abf2a-cbee-4646-8415-b53088182d20.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\DDE Spy Help.lnk: 2d2d35a3-8cbf-4550-9666-ea54017f4169.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\Linker Guide.lnk: 2fc2634d-b797-4466-9a07-07efb786f491.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++\DDE Spy.lnk: bf3554c1-3790-4dfb-813d-9a5bd1222079.png
+  D:\OneDrive\Documentos\808 Maracas 13.flac: b31bc4a6-a79c-424d-8ba0-4b1eb27279c5.png
+  C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.256.502.0_x64__zpdnekdrzrea0\Spotify.exe: 534d16ca-a74f-44a7-ba4f-e10109528f41.png
+  Microsoft.Windows.Explorer: 553ee9fe-2511-4371-8cbb-a1155d7bc55b.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\Doctor Watcom Help.lnk: 874e8d6b-7e5d-4c53-9717-e2d8ff3a0c44.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Oracle VM VirtualBox\License (English).lnk: 72249e0a-f413-4517-9a33-3b33153650af.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Steps Recorder.lnk: c6086f04-e2d4-4931-a309-22bfba6c06cc.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\KeyShot 12\Uninstall.lnk: 9fbd5608-7a21-4737-9f70-13100a2ca2f2.png
+  Microsoft.MicrosoftPCManager_8wekyb3d8bbwe!App: 0fcae4c7-603c-4353-929c-5e8fd043253a.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++\Windowed Debugger.lnk: 9d1b5500-8d3c-4718-a214-8dfd0cae3a66.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\RetroArch\RetroArch Data Folder.lnk: 0d401d96-6b74-4ed8-b9f1-cbb3730ba55d.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\RetroArch\RetroArch (log to file).lnk: 5cb22c6f-c289-4dfd-8a05-670911bdda52.png
+  C:\Users\fliak\Downloads\UA_Connect_1_4_21_3069_Win.exe: 3058257b-6867-49b6-82f4-9d61604393c3.png
+  C:\ProgramData\Battle.net\Agent\Blizzard Uninstaller.exe: 1f4afa16-5ab7-44d8-8b42-3b0df79de075.png
+  D:\OneDrive\Imágenes\5d17f8b3-4284-4520-b250-aa37bc077dc3.jpg: 19288873-5f4f-462e-9019-3925b6c2e14f.png
+  C:\Program Files\XnViewMP\xnviewmp.exe: 4b9e0c75-19ed-498c-a1a1-28b47f795106.png
+  D:\OneDrive\Escritorio\fisica emma.txt: 91314a67-9f63-4a43-98ae-fc4422f97432.png
+  Microsoft.Office.WINWORD.EXE.15: 88a3d4ba-3a02-41bc-b4f5-505eeec0598b.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\WinRAR\WinRAR help.lnk: 4d932e82-266b-4a44-a9e5-dfc773e60c6a.png
+  Microsoft.Windows.Photos_8wekyb3d8bbwe!App: 139179c0-0e04-4e94-ae0d-9fc224262611.png
+  C:\Program Files (x86)\Browny02\Brother\BrStMonW.exe: e2b43b5b-3642-4ead-bab9-b3ed0e8c4664.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\Ableton Push Control Panel Autostart.lnk: f8f61c40-74ff-4344-bb8c-030ee71efa36.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\C Language Reference.lnk: 8d3f6499-1ec0-48ce-9096-4e21d301815d.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Ubuntu\Firefox (Ubuntu).lnk: e3cd3f2a-58f5-41ab-a5e4-6b5958b4ba37.png
+  C:\Users\fliak\AppData\Local\Programs\Microsoft VS Code\tools\inno_updater.exe: 3e9cf83b-52d4-43e1-ab00-8b9a71611d6e.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\VoiceAccess.lnk: f0345fa5-6cdc-4834-b8ac-4e0bbcbbccf4.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Oracle VM VirtualBox\User manual (PDF, English).lnk: e4363fe0-0f75-4b9f-a544-f7ea02f87343.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\RustDesk\Uninstall RustDesk.lnk: a9c48194-cb62-48a7-93e1-8f27375aa884.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\C++ Error Messages.lnk: f7a34906-9a6a-411a-a925-0312ba73d9c8.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++\Zoom.lnk: fb91e06b-3a15-4e5b-bb94-a33f97bd0707.png
+  C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE: 44f6f68f-e7cb-42af-bf08-f795e751a3fe.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++\Profiler.lnk: 6f6f7c25-45c7-4ebb-ac58-7986ad73f437.png
+  ? C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\Accelerator Editor Help.lnk
+  : 0a2c97a5-9298-4d5a-9102-3904693b247f.png
+  Microsoft.Windows.Shell.RunDialog: cac6f745-8bf1-4a22-b449-9ea7f0434695.png
+  Windows.PrintDialog_cw5n1h2txyewy!Microsoft.Windows.PrintDialog: a41f6914-9248-4643-a68e-80c3135c7d64.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Yasb.lnk: 37ba3c82-aca9-4993-8ba6-856e1eda4698.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Obsidian.lnk: dc02e0bf-8b8d-48ea-8b31-27dc972a0792.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Acoustica Mixcraft 9 (64 bits)\Mixcraft 9 Help.lnk: 057ee3aa-c09c-4b94-92f3-bc289b07d36f.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\User's Guide.lnk: 886485d6-2129-4764-a850-45c054fceb04.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Project64 2.3\Project64.lnk: 01d32efb-bbbe-4db0-9a3f-d6eba49f779d.png
+  C:\Program Files\PowerToys\PowerToys.FancyZones.exe: c09ffa34-1a46-4a6a-bcab-d575161e261f.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\System Tools\Task Manager.lnk: 2c774b48-05cc-4c53-af81-1a8f36f1036a.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\RecoveryDrive.lnk: 71fa0913-ceac-4cf0-b139-21156a1f8fd5.png
+  C:\Users\fliak\Downloads\Seelen.UI_2.1.5_x64-setup.exe: bd46cba0-c433-4180-b0ed-fea122ae1faa.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\KeePassXC\KeePassXC - User Guide.lnk: ca6827c5-70b0-4a43-9be3-7cc7dedb2be5.png
+  C:\Program Files (x86)\Arturia\Arturia Software Center\Arturia Software Center.exe: 39f59059-6b86-4454-b350-50d019e05ebb.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\services.lnk: f3d98d3d-f6ab-4384-8bdd-c1738a7f8661.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Ubuntu\Install RELEASE (Ubuntu).lnk: e3c28e30-00bb-44d2-9a41-6ca782de206a.png
+  C:\Users\fliak\Downloads\Kilohearts Installer [R8mZpgasu3tMTkFu83dJ].exe: b5e3d535-76a4-40c5-bac6-60976b0e34fd.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Ubuntu\Chromium Web Browser (Ubuntu).lnk: 1de09525-c43c-4e84-be11-0ac7593b6878.png
+  Microsoft.WindowsCalculator_8wekyb3d8bbwe!App: 0cc10ef2-7013-480f-b940-7d4d3c372d1a.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\DOSBox-0.65\Uninstall.lnk: 8497a811-42b3-4a6c-9c47-ca324bf73b47.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git\Git Release Notes.lnk: 97c32e63-a71b-4656-ada9-cbf27b82bb72.png
+  Microsoft.VisualStudio.Installer: 2d7be30f-73d0-4062-b8f6-c92c77d991ba.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\WinRAR\WinRAR.lnk: 0694dc7a-0dfb-4eb6-acab-15505b1f4ed1.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Ubuntu\ImageMagick (color depth=q16) (Ubuntu).lnk: 2338710e-f169-4fdf-9e4a-5267ac188783.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Memory Diagnostics Tool.lnk: c2579d6d-2b5a-41f0-8470-e63de4f2a69e.png
+  Microsoft.WindowsTerminal_8wekyb3d8bbwe!App: 0e80c768-6958-472f-ae60-2b9b6f71b42e.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++\Debugger.lnk: 399013af-0d46-4ced-a8a4-a1b1effcf84c.png
+  D:\OneDrive\Documentos\808 Snare Drum 253.flac: 9fe63836-d117-4e69-8f75-e0b9865e6990.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\Magnify.lnk: b884faa4-6464-4579-8456-eac390786bb8.png
+  Microsoft.Office.EXCEL.EXE.15: 1232acf8-cdf2-44c7-a549-5b75b9be5673.png
+  C:\Users\fliak\AppData\Local\Universal Audio\Luna_1.8.0\LUNA.exe: 92e4b314-525f-43ee-b107-9a7479b58c39.png
+  C:\Users\fliak\Downloads\Seelen.UI_2.1.6_x64-setup.exe: 40495bd6-a4fd-49ea-9bc1-d255c44cc8df.png
+  D:\OneDrive\Documentos\808 Tom Hi 1.flac: 346e57ea-253f-46b1-a695-356e9cb6dd55.png
+  C:\Program Files\UA Connect\UA Connect.exe: 3df1f5ff-837a-4dcd-9eab-434eeb095404.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Excel.lnk: 1232acf8-cdf2-44c7-a549-5b75b9be5673.png
+  C:\Program Files\Intel\Intel Arc Control\ArcControl.exe: 7a625eb6-8fac-4713-84ed-736bb0e89ccb.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\desktop.ini: 92e43a52-8a62-4a27-8aa7-dbe94c67d1f9.png
+  C:\Windows\System32\msiexec.exe: 0df37bf2-e265-426e-9a1d-b95645a8de54.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\iLok License Manager.lnk: 5e0f310f-8743-44b4-8f5a-a0aa505fda7b.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.9\Python 3.9 Manuals (64-bit).lnk: ddadbd52-04c4-4212-91d7-9c1ba1d86b7d.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\DOSBox-0.65\Video\Video instructions.lnk: 78fd70a9-49f1-4292-a81a-47f73f1af4b1.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Acoustica Mixcraft 9 (64 bits)\Archivos de bitácora.lnk: d0a94a89-57e4-48af-a88b-dd29723d7801.png
+  C:\Balsamiq_Mockups_3\Balsamiq Mockups 3.exe: dfaf6627-fcda-40c9-8564-c70393f6ec32.png
+  C:\Program Files\PowerToys\PowerToys.ColorPickerUI.exe: 24b587fa-ac0d-4510-a3bd-69d96e86af7c.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\Zoom Help.lnk: d9270377-7f8e-4016-8e38-3503715fb7cc.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\dfrgui.lnk: 9631a9f2-6dd7-4e85-859e-2b2a1d2c4601.png
+  ? C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\DOSBox-0.65\Video\Install movie codec (WinXP and Win2000 Only).lnk
+  : 47a7b1fa-19ad-41e9-9b47-7c05b3dfc0b1.png
+  RealtekSemiconductorCorp.RealtekAudioControl_dt26b99r8h8gj!App: 1f3ffd36-5f19-47eb-ba9c-6d16a3773b70.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Performance Monitor.lnk: e319e77f-6817-49d9-b2d9-0effe5361573.png
+  C:\Program Files\QGIS 3.32.1\bin\qgis-bin.exe: 31f83986-7fe8-4576-868a-95e35f6eca62.png
+  C:\Windows\SysWOW64\taskkill.exe: 1056a9d3-164b-46cb-a7e2-224e1b3b1381.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VideoLAN\VLC media player - reset preferences and cache files.lnk: df468efd-cd66-47ea-991e-52e8797d22b8.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\DOSBox-0.65\Capture folder.lnk: 7298dc28-855a-4d96-b6d4-981302ebd286.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\UltiMaker Cura\Uninstall UltiMaker Cura 5.7.1.lnk: 282ddc9b-01d7-46b3-b9ee-fa37594c9df7.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\Steam.lnk: 2530b0a8-a8da-44c8-a7d6-c75e6b044e59.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Arturia\Arturia Software Center.lnk: 82ef9160-e488-4d1c-b69f-899a9cf49101.png
+  C:\Users\fliak\Downloads\Seelen.UI_2.1.9_x64-setup.exe: 7f019314-c24f-4db0-a3e5-d93855024c09.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vintage\Vintage.lnk: 84960f92-72fe-4029-ae8d-95c7224d6428.png
+  D:\OneDrive\Imágenes\draculatheme.jpg: 161ae0b8-b6c0-4e65-9e9e-63720f6a953f.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vintage\Uninstall Vintage.lnk: 964ed5bc-b580-4314-b6c5-c481691af63d.png
+  C:\ProgramData\Kilohearts\Kilohearts Installer.exe: 13c8de48-25f7-4137-b6f9-2d7bc206826c.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\Enviar a OneNote.lnk: 12a82e68-270d-44cd-8192-1586ec8dddee.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git\Git GUI.lnk: fa43bb36-3fdf-4221-a0af-7b24f629a598.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\RustDesk Tray.lnk: 88e98367-1dff-4609-a7a7-bfb822a0575d.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Total Commander\Total Commander 64 bit.lnk: 26d615ed-8e61-4e68-9d88-678256b8c2f8.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Tokyo Dawn Labs\TDR VOS SlickEQ\Un-install TDR VOS SlickEQ.lnk: 7ee3dd82-dcac-41fc-a7d9-4da6122d5dab.png
+  MSEdge: d854bcd0-ce16-4f37-88f5-a1a2e134ef91.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\project64 1.6\Uninstall Project64 1.6.lnk: 421c3dd1-64e4-4824-be61-ef77a6876e7d.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\VideoLAN\Release Notes.lnk: dbf3a81f-4112-4b5e-a4bf-515dd35104f5.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\PowerShell\PowerShell 7 (x64).lnk: e56a5f0b-a419-48a7-88bf-68f98ffef453.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\Tools Guide.lnk: 83f35cde-0ec0-4106-8679-d09ea3cfc8e7.png
+  C:\Windows\System32\diskpart.exe: 65a63aef-5da2-42cc-9b93-996fd768ae83.png
+  D:\OneDrive\Imágenes\cb34deea-f680-4a08-ba54-d76d60049637.jpg: ee531b02-c172-4284-9604-4a6c3076551a.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\Narrator.lnk: 820d88ca-aadd-498b-a08e-9dbc98b49300.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Ubuntu\Remmina (Ubuntu).lnk: cf63820b-a8f9-4005-889e-c55dce63b612.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Scoop Apps\Zed.lnk: a277f7c5-e1bb-4d57-a308-a4a2d1cf9372.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessibility\Speech Recognition.lnk: c6211669-0594-416d-832e-39dc0064a1d4.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Dexed\Dexed.lnk: 604b126d-d99c-4957-bd0e-9491aa053332.png
+  C:\ProgramData\MeldaProduction\LIB\MPluginManager.exe: 5668bcc4-caed-4b12-aebf-f0a959fcaff8.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Security Configuration Management.lnk: bd2e7059-b17b-4d10-afc4-c6d8fba31690.png
+  C:\Users\fliak\AppData\Local\Temp\_ir_sf_temp_0\irsetup.exe: f166e273-0d28-4160-bbb8-d0cd5cd9c6cc.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++\Source Browser.lnk: 80e2bc42-94dd-48af-a2cb-e3587505502d.png
+  Steinberg.ActivationManager: efa63030-e397-4f67-9bc6-64d4f9d1a6ee.png
+  MSTeams_8wekyb3d8bbwe!MSTeams: e8d9744e-7074-4457-8b2d-8151d8594248.png
+  md.obsidian: dc02e0bf-8b8d-48ea-8b31-27dc972a0792.png
+  C:\Users\fliak\Downloads\ASIO4ALL_2_16.exe: ab0119f4-76eb-48df-a94c-94e627debb46.png
+  C:\Users\fliak\Downloads\469968589_1018225530331665_8556589822799551962_n.jpg: 4e2751c6-0806-4c31-8c7d-2d7405f1aacf.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows PowerShell\desktop.ini: f7b9c6ac-0e87-449f-bcfa-32881463d940.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Battle.net\Battle.net.lnk: 3aa3a33b-2b76-4cb4-a686-067b27e069c5.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\DOSBox-0.65\DOSBox.conf.lnk: 929be941-ac4b-4c7e-9a27-1f7a483b8ce6.png
+  C:\Program Files\totalcmd\TOTALCMD64.EXE: f9e47104-8594-4ab9-ba85-78e5e737cf29.png
+  C:\Luna\LUNA.exe: e62bdd7d-2d37-4bc1-81c1-79a157b41b76.png
+  C:\Program Files\Acoustica Mixcraft 9\mixcraft9.exe: 63329724-dd9b-4bde-976b-e62f94798912.png
+  ? C:\Program Files\WindowsApps\Microsoft.6365217CE6EB4_102.2502.5002.0_x64__8wekyb3d8bbwe\MicrosoftSecurityApp\MicrosoftSecurityApp.exe
+  : 3ca67958-42ce-4e31-930b-43f84385adbe.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Publisher.lnk: 409cabb2-24a7-44ee-a3cd-cd568e2a6ae2.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Run.lnk: cac6f745-8bf1-4a22-b449-9ea7f0434695.png
+  C:\Program Files\Bitwig Studio\bin\BitwigAudioEngine-X64-AVX2.exe: 5ad13e53-0080-46f8-8361-fa9f302a1a18.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.11\Python 3.11 (64-bit).lnk: d3862eef-cfdd-4be2-9138-eac16b1a0307.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\Spy Help.lnk: ea9ce264-3094-4abb-a255-4b02f205109b.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\Debugger Help.lnk: 8bca3b6b-8df2-42cc-89ec-984a9da76ef2.png
+  C:\Windows\System32\Taskmgr.exe: 338c3a78-dba6-44eb-8c1d-00e307f6ad29.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++\Read Me.lnk: dc0f699d-8df7-4784-b5df-79a1b4cde678.png
+  C:\ProgramData\Ableton\Live 11 Suite\Program\Ableton Live 11 Suite.exe: c312e7de-c412-45c1-8464-b94e1aa7405d.png
+  C:\wezterm\wezterm-gui.exe: 37e4dd3d-7860-4c04-87b6-8e7e90a23a78.png
+  C:\Users\fliak\AppData\Local\Temp\Update-569db383-ce9d-4e58-8d3b-a7b17053134b\LicenseSupportInstallerWin64Update.exe: bcc691ca-d650-4090-8d8e-7d982bfd8011.png
+  ? C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\C++ Library Reference.lnk
+  : f6a48482-d533-4edc-a6ed-77ae64cef233.png
+  Microsoft.Windows.AdministrativeTools: f0757962-d4ab-4588-97a5-07553e57d49f.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Maxon\Maxon Cinema 4D\Commandline 2023.lnk: 48b2e673-bc1d-466b-b2e0-7d6e352931e5.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Edge.lnk: d854bcd0-ce16-4f37-88f5-a1a2e134ef91.png
+  D:\OneDrive\Escritorio\NEGOCIO.xlsx: 42858e4b-d015-49ad-9126-c290f6d1d37b.png
+  Microsoft.ZuneMusic_8wekyb3d8bbwe!Microsoft.ZuneMusic: 60828c0e-843d-4638-8544-c388adafaafc.png
+  Microsoft.SecHealthUI_8wekyb3d8bbwe!SecHealthUI: 0cbe5087-d53f-4a1f-a7bf-ee8827ff2a24.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\UVI Portal\UVI Portal.lnk: 8e0e4e8e-d8be-4b91-a98d-c00ad341dd3c.png
+  C:\Users\fliak\AppData\Local\Programs\pgAdmin 4\runtime\pgAdmin4.exe: 4b4f3e5e-ca06-4062-b1d8-fa3806d4ac96.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\System Tools\Desktop.ini: 8e951574-2415-4748-8126-111ad9b860b3.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\IDE Help.lnk: 2973360f-88b3-4922-9fb8-e363c40c5ee4.png
+  C:\Program Files\Seelen\Seelen UI\seelen-ui.exe: a5bb60ca-e123-44bd-a6ea-12a7fce28fe7.png
+  C:\Windows\UUS\amd64\MoNotificationUx.exe: a752e3ac-b09e-420a-a5e0-3364f64fb53c.png
+  C:\Program Files\UltiMaker Cura 5.7.1\UltiMaker-Cura.exe: cf82bcaf-f142-4a6e-b817-575221f9d883.png
   ? C:\Program Files\WindowsApps\Microsoft.6365217CE6EB4_102.2412.12002.0_x64__8wekyb3d8bbwe\MicrosoftSecurityApp\MicrosoftSecurityApp.exe
   : 1ab74c5e-8f8c-4b7d-981a-5aea93460a9d.png
-  C:\ProgramData\{66727803-D023-456D-A52C-2E7D96E410F3}\Controller Editor Setup PC.exe: ea17d255-9a4f-432d-8c0e-1791ce97a7b5.png
-  C:\Users\fliak\Downloads\Seelen.UI_2.1.5_x64-setup.exe: bd46cba0-c433-4180-b0ed-fea122ae1faa.png
-  D:\Instaladores\PRESONUS STUDIO ONE 6.5\WIN_PSO_V6.5.2_AP_ZNT\WIN_PSO_V6.5.2_AP_ZNT\1.INSTALAR\Setup.exe: d71208a0-c661-4c66-9cd8-1f6652ac62b8.png
-  C:\Program Files\PowerToys\PowerToys.FancyZones.exe: c09ffa34-1a46-4a6a-bcab-d575161e261f.png
-  D:\OneDrive\Documentos\808 Maracas 13.flac: b31bc4a6-a79c-424d-8ba0-4b1eb27279c5.png
-  D:\OneDrive\Imágenes\12036986_1064074106939221_1431817304991695364_n.jpg: aecf3516-3590-4816-aa2a-cb3d73815226.png
-  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Edge.lnk: d854bcd0-ce16-4f37-88f5-a1a2e134ef91.png
-  SpotifyAB.SpotifyMusic_zpdnekdrzrea0!Spotify: cea326f1-b0a1-4dd9-93af-451fd51c3cac.png
-  C:\Windows\System32\msiexec.exe: 0df37bf2-e265-426e-9a1d-b95645a8de54.png
-  C:\Users\Public\Desktop\Kontakt 7.lnk: eae9d0d2-e9cd-47d7-b4ee-4bf58c4e539a.png
-  C:\Windows\System32\Taskmgr.exe: 338c3a78-dba6-44eb-8c1d-00e307f6ad29.png
-  windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel: d7afa4d3-5bda-4112-8e61-fdbb99b48d12.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Tracktion Download Manager\Uninstall Tracktion Download Manager.lnk: bf5b1e9b-09d0-4150-a206-c171d80efec7.png
+  C:\Program Files\WindowsApps\Microsoft.MicrosoftPCManager_3.15.7.0_x64__8wekyb3d8bbwe\PCManager\MSPCManager.exe: d8cc457c-4395-452a-8de4-8d7dd848bb0b.png
+  D:\milky\MilkyTracker.exe: 90f9c684-0906-4d9c-8293-06bf0eaf3933.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\desktop.ini: cd23fc46-5e57-4dfc-942b-f17ba45da9fb.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\Desktop.ini: 7d2e0f01-2521-4b24-9d85-f541f06b57cd.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Tracktion Download Manager\Tracktion Download Manager.lnk: ed7253ca-f0fb-4df5-8ebd-d1627d025895.png
+  C:\Program Files\Acoustica Mixcraft 9\uninstall.exe: fc36aaac-ff49-4509-b2f0-ce225731b369.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git\Git FAQs (Frequently Asked Questions).url: 577e028f-eba0-4bdf-9609-4c14d75cb677.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Word.lnk: 88a3d4ba-3a02-41bc-b4f5-505eeec0598b.png
   C:\Program Files\Microsoft OneDrive\OneDrive.exe: a08be61d-e093-4d15-9d15-bb3445207e41.png
-  D:\OneDrive\Escritorio\fisica emma.txt: 91314a67-9f63-4a43-98ae-fc4422f97432.png
-  C:\Program Files (x86)\Browny02\Brother\BrStMonW.exe: e2b43b5b-3642-4ead-bab9-b3ed0e8c4664.png
-  C:\Users\fliak\AppData\Local\Programs\pgAdmin 4\runtime\pgAdmin4.exe: 4b4f3e5e-ca06-4062-b1d8-fa3806d4ac96.png
-  C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.256.502.0_x64__zpdnekdrzrea0\Spotify.exe: 534d16ca-a74f-44a7-ba4f-e10109528f41.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools\desktop.ini: 94a73d24-941f-43d3-b13d-156024f4e54f.png
+  C:\ProgramData\{66727803-D023-456D-A52C-2E7D96E410F3}\Controller Editor Setup PC.exe: ea17d255-9a4f-432d-8c0e-1791ce97a7b5.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Hyper-V Manager.lnk: c0557f9e-f4cf-4129-96d5-f9245a996205.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Wireshark.lnk: 939180b8-effa-4b88-b164-28ef56c0803e.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Intel\Intel Arc Control\Intel® Arc™ Control.lnk: de4eda41-1225-42f7-b731-ce1a3063b67d.png
+  Microsoft.Office.MSPUB.EXE.15: 409cabb2-24a7-44ee-a3cd-cd568e2a6ae2.png
+  C:\Users\Public\Desktop\Kontakt 7.lnk: eae9d0d2-e9cd-47d7-b4ee-4bf58c4e539a.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\GSP\Fallout\Uninstall or reinstall.lnk: 741de03b-b7e1-4efc-bf3a-31519334a310.png
   C:\Windows\explorer.exe: e92c0a95-c885-457d-8806-ba09c227a426.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Synchronet BBS Software\Synchronet Documentation.lnk: 5f3e2a1b-2a93-4131-9570-4d0705b18142.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\ASIO4ALL v2\Uninstall.lnk: 77350caf-d34f-4df3-bbd4-0f7fed15806f.png
+  C:\Program Files\Common Files\Universal Audio\Luna\LUNA.exe: ac75f1eb-fba5-47a7-baed-d4b6102307e4.png
   C:\Users\fliak\AppData\Local\Discord\app-1.0.9181\Discord.exe: 7aabf1e4-dca6-443e-b30e-a16d4a22cb09.png
-  Microsoft.ScreenSketch_8wekyb3d8bbwe!App: da039f82-c3f5-4df4-aa3a-77abdf98c43a.png
-  C:\Program Files\Adobe\Adobe Illustrator 2025\Support Files\Contents\Windows\Illustrator.exe: 7621347b-d063-4398-b5b3-cd32407e9b6e.png
-  D:\Native Instruments\Kontakt 7\Kontakt 7.exe: f54e4ac6-efef-4f6a-a925-0a0c857882df.png
-  Microsoft.WindowsNotepad_8wekyb3d8bbwe!App: d2ad5b7a-063a-4f89-842b-718688a5d557.png
-files: {}
+  D:\OneDrive\Documentos\808 Tom Mid 44.flac: b77410d3-29ef-453b-b37e-14ebc1d1a734.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessibility\Desktop.ini: 44495723-8790-4d92-b03e-0a463d1787cc.png
+  C:\Users\fliak\AppData\Local\Temp\keygen.exe: 262fda8b-ff85-4ad9-9e9c-3834da4a6b0a.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Decent Sampler\Uninstall Decent Sampler.lnk: ba426c54-45f6-4ed1-b34e-c57686ed819c.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++ Tools Help\Heap Walker Help.lnk: 44d68d2a-b1b6-4764-a78a-5ebae5c14b77.png
+  C:\fab\Fab_x64.exe: 95739b1f-894a-4a9e-9453-d86924c722cd.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steinberg Activation Manager.lnk: efa63030-e397-4f67-9bc6-64d4f9d1a6ee.png
+  C:\Users\fliak\AppData\Local\Temp\~nsuA.tmp\Un_A.exe: 9be895d1-1398-4c7e-94c2-0ec8744451ff.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 2.7\Python Manuals.lnk: d1e973e1-5934-450d-ba23-9fc2b1b8a0e5.png
+  C:\Program Files\Maxon Cinema 4D 2023\Cinema 4D.exe: ae5cf6ce-e466-4e7d-aede-7fe230d2b40c.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Autodesk\Autodesk Fusion.lnk: 7ec20b02-0f2b-4470-8d50-7ed8456de2b5.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.9\Python 3.9 (64-bit).lnk: 380c6a45-42b5-4d7a-9026-36354e984d40.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++\Spy.lnk: 9a24a9f9-8c6e-47d8-84f0-3e8a53b0ebeb.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Embarcadero RAD Studio 10.2\desktop.ini: 69f5e54e-d4c6-414f-8313-461ee63cf0e1.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Maxon\Maxon Cinema 4D\Maxon Cinema 4D 2023.lnk: f07b20a4-0822-4b89-9e8e-ade67b017177.png
+  C:\Program Files\VideoLAN\VLC\vlc.exe: f0c183e7-3207-42e5-8390-0f0bba940360.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\File Explorer.lnk: 553ee9fe-2511-4371-8cbb-a1155d7bc55b.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++\Build Environment.lnk: 3cb8c2e8-6c5e-414a-8725-fab74b03f1fe.png
+  C:\Program Files\WindowsApps\MSTeams_25017.203.3370.1174_x64__8wekyb3d8bbwe\ms-teams.exe: 0017e8cd-f477-46a2-ba94-e32319a32661.png
+  C:\Program Files\MakeMusic\Finale\27\Finale.exe: 0b3400dc-59f0-406d-91d6-58222d05a1a7.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\OneDrive.lnk: f4a24c38-f2f9-452c-bd4c-a2f848cc1bd7.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\CyberGhost 8\Uninstall CyberGhost 8.lnk: 470a9bda-28cb-4ae8-8727-5b9a7a96e518.png
+  Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy!App: fb66b543-1938-4cd6-a349-0cc0e9aab4d2.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++\Dialog Editor.lnk: 6ea1d39a-eb40-4b7f-8c7c-e5581f5d8620.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Open Watcom 2.0 C - C++\IDE.lnk: 13e2caa6-fd74-4d63-b630-f54c7b96e85f.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini: 34260d01-0d37-4da2-85ec-de0a71cfc43a.png
+  C:\Users\fliak\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Discord Inc\Discord.lnk: 6f88ff04-947e-4118-b3bd-446631f9a68c.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Decent Sampler\Decent Sampler.lnk: e4d4c003-f16c-44ac-bf63-c1e62d37c9cc.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Remote Desktop Connection.lnk: 41649630-31e5-4467-b0ba-b101fc6a4186.png
+  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk: 836d5c1b-e1c3-43f8-b316-ac7460acd912.png
+  C:\Program Files (x86)\vanBasco's Karaoke Player\vmidi.exe: 9cc64097-37f3-4a4c-a35d-56141011b6bd.png
+files:
+  flac: fc80b074-3126-4928-a61a-347bb0f71239.png
+  pdf: c9a38c71-5d5f-4835-acc0-8c2daf3f47d7.png
+  xlsx: e7e2d159-1665-4e8b-9086-4a3fdd514812.png
+  jpg: 025e665e-879b-4a79-b869-89fbf9c1f076.png
+  img: 074491bc-f70c-427d-8cdb-c6667b7f2b6e.png
+  ini: 792796b2-0842-40e4-89ca-fc91880f3634.png

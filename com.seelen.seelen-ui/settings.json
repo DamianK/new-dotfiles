@@ -2,17 +2,17 @@
   "monitorsV2": {
     "\\\\?\\DISPLAY#GDH0030#4&24219e88&0&UID49#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}": {
       "byWidget": {
+        "@seelen/weg": {
+          "enabled": true,
+          "pinnedItemsVisibility": null,
+          "temporalItemsVisibility": null
+        },
         "@seelen/wallpaper-manager": {
           "backgrounds": null,
           "enabled": true
         },
         "@seelen/fancy-toolbar": {
           "enabled": true
-        },
-        "@seelen/weg": {
-          "enabled": true,
-          "pinnedItemsVisibility": null,
-          "temporalItemsVisibility": null
         },
         "@seelen/window-manager": {
           "enabled": true,
@@ -402,8 +402,16 @@
     "channel": "Release"
   },
   "byWidget": {
+    "@seelen/fancy-toolbar": {
+      "delayToHide": 800,
+      "delayToShow": 100,
+      "enabled": true,
+      "height": 30,
+      "hideMode": "Always",
+      "useMultiMonitorOverlapLogic": false
+    },
     "@seelen/launcher": {
-      "enabled": false,
+      "enabled": true,
       "monitor": "MouseOver",
       "runners": [
         {
@@ -419,6 +427,30 @@
           "readonly": true
         }
       ]
+    },
+    "@seelen/wallpaper-manager": {
+      "backgrounds": [],
+      "enabled": true,
+      "interval": 60,
+      "randomize": false
+    },
+    "@seelen/weg": {
+      "delayToHide": 800,
+      "delayToShow": 100,
+      "enabled": true,
+      "hideMode": "OnOverlap",
+      "margin": 0,
+      "mode": "MinContent",
+      "padding": 8,
+      "pinnedItemsVisibility": "Always",
+      "position": "Bottom",
+      "size": 40,
+      "spaceBetweenItems": 8,
+      "temporalItemsVisibility": "All",
+      "thumbnailGenerationEnabled": true,
+      "useMultiMonitorOverlapLogic": false,
+      "visibleSeparators": true,
+      "zoomSize": 70
     },
     "@seelen/window-manager": {
       "autoStackingByCategory": true,
@@ -442,38 +474,6 @@
         "top": 0
       },
       "workspacePadding": 10
-    },
-    "@seelen/weg": {
-      "delayToHide": 800,
-      "delayToShow": 100,
-      "enabled": true,
-      "hideMode": "Never",
-      "margin": 8,
-      "mode": "MinContent",
-      "padding": 8,
-      "pinnedItemsVisibility": "Always",
-      "position": "Bottom",
-      "size": 40,
-      "spaceBetweenItems": 8,
-      "temporalItemsVisibility": "All",
-      "thumbnailGenerationEnabled": true,
-      "useMultiMonitorOverlapLogic": false,
-      "visibleSeparators": true,
-      "zoomSize": 70
-    },
-    "@seelen/wallpaper-manager": {
-      "backgrounds": [],
-      "enabled": true,
-      "interval": 60,
-      "randomize": false
-    },
-    "@seelen/fancy-toolbar": {
-      "delayToHide": 800,
-      "delayToShow": 100,
-      "enabled": true,
-      "height": 30,
-      "hideMode": "Never",
-      "useMultiMonitorOverlapLogic": false
     }
   }
 }
