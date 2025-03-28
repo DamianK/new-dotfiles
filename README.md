@@ -1,5 +1,5 @@
 # new-dotfiles
-My New Dotfiles (replaces old dotfiles repo). NOTE: This is now a WIP as I switched again to macOS on all my devices.
+My New Dotfiles (replaces old dotfiles repo).
 
 These are the configurations and scripts I'm using in my laptop (macOS) and my desktop Manjaro Linux (Arch) and Windows+WSL(Ubuntu 22.04 & Seeelen UI on Windows 11).
 Main development environment currently includes now includes WezTerm, VSCode and NeoVim.
