@@ -16,7 +16,7 @@ Includes configurations for:
 - Pycharm
 - Python
 - PostgreSQL
-- ZSH
+- ZSH (with Oh-My-Zsh / p10k)
 - Zellij
 
 and more..
