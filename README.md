@@ -1,5 +1,5 @@
-# new-dotfiles
-My New Dotfiles (replaces old dotfiles repo)
+# new-dotfiles 
+My New Dotfiles (updated July 15, 2025)
 
 These are the configurations and scripts I'm using in my laptop (macOS) and my desktop (now mac also). Includes old configs also from my Ubuntu 22.04 & Seeelen UI on Windows 11.
 
