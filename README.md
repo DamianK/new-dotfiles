@@ -9,13 +9,14 @@ Main development environment currently includes now includes WezTerm, Termius, V
 Includes configurations for:
 
 - Alacritty (which I'm not using now)
-- WezTerm (amazing terminal for Windows, Linux and macOS)
-- Seelen UI on Windows (see com.seelen.seelen-ui folder for configs)
-- VSCode
+- Karabiner (keyboard manager for Mac)
 - NeoVim
 - Pycharm
 - Python
 - PostgreSQL
+- Seelen UI on Windows (see com.seelen.seelen-ui folder for configs)
+- VSCode
+- WezTerm (amazing terminal for Windows, Linux and macOS)
 - ZSH (with Oh-My-Zsh / p10k)
 - Zellij
 
