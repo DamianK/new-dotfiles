@@ -1,9 +1,9 @@
 # new-dotfiles 
-My New Dotfiles (updated October 5, 2025)
+My New Dotfiles (updated October 6, 2025)
 
-These are the configurations and scripts I'm using in my laptop (macOS) and my desktop (now mac also). Includes old configs also from my Ubuntu 22.04 & Seeelen UI on Windows 11.
-
+These are the configurations and scripts I'm using in my laptop (macOS) and my desktop (now mac also).
 Main development environment currently includes now includes WezTerm, Termius, VSCode and NeoVim. On mac I also use Aerospace as my Tiling Window Manager.
+NOTE: I'm moving old configs to another repo soon, but this currently includes old stuff from my Ubuntu 22.04 & Seeelen UI on Windows 11.
 
 ## About this repository
 Includes configurations for:
